@@ -219,7 +219,7 @@ Unfortunately, this was a partial photosphere and thus momento cannot process it
 </div>
 [Street View image](https://www.google.com/maps/place/Pantheon/@41.8986108,12.4768729,3a,75y,44.42h,113.69t/data=!3m8!1e1!3m6!1sAF1QipNC5QrXLy5L-gQ0Z24vQ_Tw8wlFO51x4prxAeWV!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNC5QrXLy5L-gQ0Z24vQ_Tw8wlFO51x4prxAeWV%3Dw203-h100-k-no-pi-30.000002-ya84.44788-ro-0-fo100!7i8704!8i4352!4m5!3m4!1s0x132f604f678640a9:0xcad165fa2036ce2c!8m2!3d41.8986108!4d12.4768729)
 
-I didn't know prior to the trip that there existed a Pantheon in Rome with the outer facade similar to the one present in Greece. With an opening in the roof, the building was spectacularly lit even at 5:00 pm in the evening. The paintings and sculptures had a lot of references to Christianity instead of what I initially expected of the Roman Pantheon or the Greek Pantheon. From [Wikipedia](https://www.wikiwand.com/en/Pantheon,_Rome), the Rome Pantheon used to be a temple of the Roman gods but is now a Christian Church. The height of this Pantheon was quite impressive 
+I didn't know prior to the trip that there existed a Pantheon in Rome with the outer facade similar to the one present in Greece. With an opening in the roof, the building was spectacularly lit even at 5:00 pm in the evening. The paintings and sculptures had a lot of references to Christianity instead of what I initially expected of the Roman Pantheon or the Greek Pantheon. From [Wikipedia](https://en.wikipedia.org/wiki/Pantheon,_Rome), the Rome Pantheon used to be a temple of the Roman gods but is now a Christian Church. The height of this Pantheon was quite impressive 
 
 Outside the Pantheon, there was a violinist playing famous pop songs like Ed Sheeran's Shape of You next to a fountain. 
 
@@ -284,3 +284,94 @@ We ended our adventures for the day at [Sora Lucia](https://www.google.com/maps/
 <iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=1&color=0094ff&markercolor=0094ff" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
 </div>
 
+
+
+
+# Day 2
+
+We had started off the day at Hotel Centro. While my parents wake up really early (6:00 am) on holidays, this day was special where we all slept in till 9 am. After that just getting ready and having breakfast brought us to 11 am. The breakfast in Italy generally was a boatload of sweet items like croissants and baked goods with some untoasted bread. We were lucky that every hotel had cereal, fruits and thankfully yoghurt :O.
+
+<div class="item right">
+    <img src="{{'assets/images/blog/italy_trip/day2/san_maggiore1.jpg' | relative_url }}" class="blog-image">
+    <figcaption>Basilica Papale di Santa Maria Maggiore</figcaption>
+</div>
+
+We started our tourism for the day by going to see [Basilica Papale di Santa Maria Maggiore](https://www.google.com/maps/place/Basilica+Papale+di+Santa+Maria+Maggiore/@41.8980089,12.4972263,18z/data=!4m16!1m8!3m7!1s0x132f61af5a97eb77:0xeb5107cdce01d746!2sHotel+Centro!5m1!1s2018-06-08!8m2!3d41.9009077!4d12.4949035!3m6!1s0x132f61a4db7d30d7:0xf7b354fb8f8c357a!5m1!1s2018-06-08!8m2!3d41.897599!4d12.498408) from the outside.
+
+---
+### Spanish Steps
+
+<div class="item left">
+    <img src="{{'assets/images/blog/italy_trip/day2/spanish_steps.jpg' | relative_url }}" class="blog-image">
+    <figcaption>Spanish Steps</figcaption>
+</div>
+
+
+The [Spanish Steps](https://www.wikiwand.com/en/Spanish_Steps) are an extremely popular site for tourists to go to. It was extremely crowded and is basically impossible to get a clean shot of the whole steps during the day. While my mom was raving about having to see the steps during the last 2 days, it turned out quite the disappointment from the bottom. The steps were ordinary marble and the grouping of the steps were in 12 pairs. With only 135 steps, this wasn't even close to some of the other structures we visited in Italy.
+
+However, we had our first view over the whole of Rome at the top of the Spanish Steps. At the top, there was a church where we couldn't take pictures unfortunately. As usual, Appa was 'soaking' in the paintings inside while Amma and I were getting restless to see other places before we had to leave for our Vatican tour.
+
+
+---
+### Borghese Garden
+
+<div class="personal">
+    <div class="row">
+        <div class="4u 12u$(mobile) item">
+            <img src="{{'assets/images/blog/italy_trip/day2/family_in_rome.jpg' | relative_url }}" class="blog-image">
+        </div>
+        <div class="4u 12u$(mobile) item">
+            <img src="{{'assets/images/blog/italy_trip/day2/happy_parents.jpg' | relative_url }}" class="blog-image">
+        </div>
+        <div class="4u 12u$(mobile) item">
+            <img src="{{'assets/images/blog/italy_trip/day2/parents_under_trees.jpg' | relative_url }}" class="blog-image">
+        </div>
+    </div>
+</div>
+
+
+As the navigator throughout the trip, I started guiding the family towards the Borghese gardens. On the way, we got to see even better Vista Points of Rome. The gardens themselves were lush with greenery. Instead of the trimmed top heavy trees seen throughout Italy, the gardens had trees that we were more familiar with. 
+
+<div class="item featured">
+    <img src="{{'assets/images/blog/italy_trip/day2/borghese_panorama.jpg' | relative_url }}" class="blog-image">
+    <figcaption>Rome Panorama from Borghese Gardens</figcaption>
+</div>
+<div class="item featured">
+    <img src="{{'assets/images/blog/italy_trip/day2/rome_view.jpg' | relative_url }}" class="blog-image">
+    <figcaption>Rome View from Borghese Gardens</figcaption>
+</div>
+
+
+<div class="row">
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day2/borghese_tree_pond.jpg' | relative_url }}" class="blog-image">
+    </div>
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day2/appa_jumping_gateway.jpg' | relative_url }}" class="blog-image height-limit">
+    </div>
+</div>
+
+---
+<div class="item right">
+    <img src="{{'assets/images/blog/italy_trip/day2/lunch.jpg' | relative_url }}" class="blog-image">
+</div>
+
+After the Borghese Gardens we started heading west towards the Vatican. Along the way we got lunch at a small cafe called [Mondo Arancina](https://www.google.com/maps/place/Mondo+Arancina/@41.9118113,12.4745687,17z/data=!4m16!1m8!3m7!1s0x132f61af5a97eb77:0xeb5107cdce01d746!2sHotel+Centro!5m1!1s2018-06-08!8m2!3d41.9009077!4d12.4949035!3m6!1s0x0:0x48b559442fe000c4!5m1!1s2018-06-08!8m2!3d41.912934!4d12.4755717) that was truly bustling. We managed to get a great deal for a pizza, a fried rice ball, and a dessert called [Cannoli](https://en.wikipedia.org/wiki/Cannoli).
+
+
+After lunch, we got a chance to visit the [Piazza del Popolo](https://www.wikiwand.com/en/Piazza_del_Popolo). With two churches on either side of the main obelisk in an extremely wide area, it was an incredible 360 view. After the piazza, we crossed the famous [River Tiber](https://www.wikiwand.com/en/Tiber) which is known to be the birthplace of Rome by the twin brothers Romulus and Remus. Our first time on the west side of the Tiber River, we managed to walk on a road just filled with expensive fashion shops. One of the names was extremely funny :P.
+
+<div class="item height_limit">
+    <img src="{{'assets/images/blog/italy_trip/day2/pull_stop.jpg' | relative_url }}" class="blog-image">
+</div>
+
+---
+### Bathrooms and Water
+
+Before we arrived at our destination, the ever concerning toilet break had to be taken by Appa who quickly went to a McDonald's 5 minutes away while my mother tension's rose and rose. The lack of public toilets in Italy ended up being quite a frustration throughout the trip since basic malls, shops, and train stations just didn't have these facilities. 
+
+Another source of frustration was the lack of free drinking water in the nation. Hotels and restaurants just didn't provide water and expected the customers to pay for bottled water. Even if we brought our own bottled water, in certain places they made us pay for their bottled water. 
+
+### Vatican Tour
+
+We started the tour by heading to the Vatican Museum that had a huge line outside. Luckily, we had got the Skip-the-line-Tickets that allowed us to go with an official tour guide and as the name suggests: skip the line. 
