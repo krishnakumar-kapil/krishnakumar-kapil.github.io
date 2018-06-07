@@ -15,7 +15,7 @@ We left Austin on the 21st at an ungodly hour in the morning since our flight to
 
 At the airport, Appa started getting stressed out because the flight started getting delayed more and more while we had a connecting flight to catch. The issue was that my parent's flight was on a different PNR than the one going to JFK. This means that in the scenario of a delay, the airlines would not help them with a different flight or alternative routes. 
 
-Luckily, our flight managed save some time on arrival and arrived slightly early taking a beautiful route around the Atlantic taking a scenic U-turn before turning back. Once we arrived in JFK, Appa and Amma had to pick up their bags and go to a different terminal, while I stayed back in Terminal 3. I scrounged for any possible food options, finally picking a place with ready made pizza. Ironic, considering how many times we would have pizza in the next few days. 
+Luckily, our flight managed to save some time on arrival and arrived slightly early taking a beautiful route around the Atlantic taking a scenic U-turn before turning back. Once we arrived in JFK, Appa and Amma had to pick up their bags and go to a different terminal, while I stayed back in Terminal 3. I scrounged for any possible food options, finally picking a place with ready-made pizza. Ironic, considering how many times we would have pizza in the next few days. 
 
 On the flight to Rome, I managed to sleep a decent amount (which is quite unusual). 
 
@@ -27,15 +27,15 @@ On the flight to Rome, I managed to sleep a decent amount (which is quite unusua
 <iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=1&color=0094ff&markercolor=0094ff" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
 </div>
 
-I arrived separately from my parents in Rome at 6:30 in the morning. While I had to take a short train ride to get to the main terminal to collect my bags and go through immigration, my parents didn't have any of these difficulties. When we have travelled in the past to a different country, we usually try to get atleast one sim card of the local country such that we have local data as well as giving local numbers in case that ever arises. However, the airport didn't have these services until after exiting the main section which meant I had to wait while my parents arrived at 9:30 to get these sims. We managed to get 2 sim cards with 8 gb of data with Vodafone at €55, which seemed an okay price to pay. We luckily didn't have any data or connection related issues throughout our trip, though we did have offline google maps that ended up being a lifesaver.
+I arrived separately from my parents in Rome at 6:30 in the morning. While I had to take a short train ride to get to the main terminal to collect my bags and go through immigration, my parents didn't have any of these difficulties. When we have traveled in the past to a different country, we usually try to get at least one sim card of the local country such that we have local data as well as giving local numbers in case that ever arises. However, the airport didn't have these services until after exiting the main section which meant I had to wait while my parents arrived at 9:30 to get these sims. We managed to get 2 sim cards with 8 gb of data with Vodafone at €55, which seemed an okay price to pay. We luckily didn't have any data or connection related issues throughout our trip, though we did have offline google maps that ended up being a lifesaver.
 
-Another concern we had was transport from Rome Fiumicino airport to the Hotel in the center of Rome that was a hour away. While Uber existed, it was incredibly expensive costing around €85 for a basic car. With 3 large suitcases this wasn't feasible. Public transport to the center was also turning out to be expensive with the train costing €14 per person while taxis costed €48 (though we didn't know they had a fixed rate before). A smart private shuttle operator managed to catch us in time while we were sorting out the sim card situation. 
+Another concern we had was transport from Rome Fiumicino airport to the Hotel in the center of Rome that was an hour away. While Uber existed, it was incredibly expensive costing around €85 for a basic car. With 3 large suitcases, this wasn't feasible. Public transport to the center was also turning out to be expensive with the train costing €14 per person while taxis costed €48 (though we didn't know they had a fixed rate before). A smart private shuttle operator managed to catch us in time while we were sorting out the sim card situation. 
 
 ---
 
 ### Hotel Centro
 
-We arrived at our hotel around 11 am and were greeted by an extremely stern faced Italian gentlemen, who I believe never smiled during the whole time we interacted with him. This kicked off a consistent pattern among all locals that we encountered where it was rare to find anyone who smiled or greeted a tourist happily as in the US or other countries. It seemed as if the concept of the guest being the highest priority wasn't present, which was sad to notice. The hotel was located in an alleyway off the main road in an old but decently kept building. However, their wifi situation was terrible and I don't think we were able to ever connect multiple devices to the network at any one time. We also noticed that there seemed to be a staffing issue in most hotels, where a single person would be responsible for multiple things like housekeeping, breakfast and general issues. 
+We arrived at our hotel around 11 am and were greeted by an extremely stern-faced Italian gentlemen, who I believe never smiled during the whole time we interacted with him. This kicked off a consistent pattern among all locals that we encountered where it was rare to find anyone who smiled or greeted a tourist happily as in the US or other countries. It seemed as if the concept of the guest being the highest priority wasn't present, which was sad to notice. The hotel was located in an alleyway off the main road in an old but decently kept building. However, their wifi situation was terrible and I don't think we were able to ever connect multiple devices to the network at any one time. We also noticed that there seemed to be a staffing issue in most hotels, where a single person would be responsible for multiple things like housekeeping, breakfast, and general issues. 
 
 ---
 
@@ -84,10 +84,10 @@ As a foodie family, with 2 members stating that they have sweet teeth (I don't t
     <figcaption>Arch of Constantine</figcaption>
 </div>
 
-We started our sightseeing tour with a guided tour at 2:00pm with the mighty Colosseum. We were told to wait near the massive Arch of Constantine. After getting a quick nap on the walled edges of the area, we merged with our tour guide. In all the tours, they provided a radio with headphones so that we could hear the guides' voice even if they were further away and in case we got separated. By far one of the best ideas that should be incorporated in all guided tours in my opinion. 
+We started our sightseeing tour with a guided tour at 2:00 pm with the mighty Colosseum. We were told to wait near the massive Arch of Constantine. After getting a quick nap on the walled edges of the area, we merged with our tour guide. In all the tours, they provided a radio with headphones so that we could hear the guides' voice even if they were further away and in case we got separated. By far one of the best ideas that should be incorporated in all guided tours in my opinion. 
 
 
-The Colosseum was build to be a combat arena between not only gladiators but between combatants vs animals and other combat based shows as well. It had 2 main entrances that were along the principal axis of the structure that were used so that the combatants would make a grand entrance. Per my recollection, each entry gate to the building allowed a certain class of Roman citizen that was determined based on a wooden tablet that they would carry with them. These tablets allowed them entry to many of the free public events that were hosted by the nobles and rich citizens. 
+The Colosseum was build to be a combat arena between not only gladiators but between combatants vs animals and other combat based shows as well. It had 2 main entrances that were along the principal axis of the structure that was used so that the combatants would make a grand entrance. Per my recollection, each entry gate to the building allowed a certain class of Roman citizen that was determined based on a wooden tablet that they would carry with them. These tablets allowed them entry to many of the free public events that were hosted by the nobles and rich citizens. 
 
 <div class="row">
     <div class="4u 12u$(mobile) item">
@@ -120,7 +120,7 @@ The Colosseum base used to be filled with sand and the underground passages were
         <img src="{{'assets/images/blog/italy_trip/day1/roman_road_zero.jpg' | relative_url }}" class="blog-image height-limit">
     </div>
 </div>
-**Roman Roads:** The saying "All roads lead to Rome" is a phrase that is thrown about a lot. We got a chance to see some of the most popular roads like the First Roman Road and the 5 km straight road in Pompeii. These roads were travelled on the common Roman chariot, though how they survived with their wooden wheels is a mystery to me. If our current cars can't survive potholes with the extensive improvements in tires and suspension, I truly wonder how bad the rides must have been for the old Romans. 
+**Roman Roads:** The saying "All roads lead to Rome" is a phrase that is thrown about a lot. We got a chance to see some of the most popular roads like the First Roman Road and the 5 km straight road in Pompeii. These roads were traveled on the common Roman chariot, though how they survived with their wooden wheels is a mystery to me. If our current cars can't survive potholes with the extensive improvements in tires and suspension, I truly wonder how bad the rides must have been for the old Romans. 
 
 <div class="row">
     <div class="6u 12u$(mobile) item">
@@ -139,7 +139,7 @@ The Italian's and Roman's talent for sculpture on stone might be unparalleled, b
     <figcaption>
     Roman Forum from Palatine Hill</figcaption>
     <div class="figdesc">
-    The view from the Palatine Hills was quite incredible, since it was our first time getting a chance to view the entirety of Rome albeit it was from a steep angle. 
+    The view from the Palatine Hills was quite incredible since it was our first time getting a chance to view the entirety of Rome albeit it was from a steep angle. 
     </div>
 </div>
 
@@ -183,9 +183,9 @@ We got a chance to view the spot where supposedly Julius Caesar was burned after
     </div>
 </div>
 
-After the guided tour of the Colosseum and the Roman Forum, we started walking towards the various famous *Piazzas* in the city like Piazza Venetia. Here we got a chance to view the magnificent [Altare della Patria (Altar of the Fatherland)](https://www.google.com/maps/place/Altar+of+the+Fatherland/@41.8933561,12.4819043,16z/data=!4m16!1m8!3m7!1s0x132f61af5a97eb77:0xeb5107cdce01d746!2sHotel+Centro!5m1!1s2018-06-08!8m2!3d41.9009077!4d12.4949035!3m6!1s0x132f604d1b805de3:0x21154807a7b83fe1!5m1!1s2018-06-08!8m2!3d41.8945977!4d12.4831268), built in honor of Victor Emmanuel (the first king of united Italy). This structure was truly a magnificent site to witness, with the top of the monument with striking black marble. The building was in striking white in comparison to the reddish tones present in all the other buildings and residential areas of Rome that allowed it to be viewed and recognized from viewpoints all across Rome. 
+After the guided tour of the Colosseum and the Roman Forum, we started walking towards the various famous *Piazzas* in the city like Piazza Venetia. Here we got a chance to view the magnificent [Altare della Patria (Altar of the Fatherland)](https://www.google.com/maps/place/Altar+of+the+Fatherland/@41.8933561,12.4819043,16z/data=!4m16!1m8!3m7!1s0x132f61af5a97eb77:0xeb5107cdce01d746!2sHotel+Centro!5m1!1s2018-06-08!8m2!3d41.9009077!4d12.4949035!3m6!1s0x132f604d1b805de3:0x21154807a7b83fe1!5m1!1s2018-06-08!8m2!3d41.8945977!4d12.4831268), built in honor of Victor Emmanuel (the first king of united Italy). This structure was truly a magnificent sight to witness, with the top of the monument with striking black marble. The building was in striking white in comparison to the reddish tones present in all the other buildings and residential areas of Rome that allowed it to be viewed and recognized from viewpoints all across Rome. 
 
-After Piazza Venetia, we started walking to the Pantheon whilst getting a chance to go through some super tiny streets of Rome. When thinking of Rome prior to coming to the city, this is the kind of narrow pathways I imagined. Another interesting point in the city is that cars are parked with 2 wheels on the sidewalk and 2 wheels on the main road to maximize road space. While India is known for it's poor road sense and traffic sense, I have truly never been as scared for my life as I have crossing the roads of Italy.
+After Piazza Venetia, we started walking to the Pantheon whilst getting a chance to go through some super tiny streets of Rome. When thinking of Rome prior to coming to the city, this is the kind of narrow pathways I imagined. Another interesting point in the city is that cars are parked with 2 wheels on the sidewalk and 2 wheels on the main road to maximize road space. While India is known for its poor road sense and traffic sense, I have truly never been as scared for my life as I have to cross the roads of Italy.
 
 <div class="personal">
     <div class="item">
@@ -215,7 +215,7 @@ After Piazza Venetia, we started walking to the Pantheon whilst getting a chance
 <div class="photosphere">
 <iframe height="350px" width="100%" allowfullscreen="true" src="https://momento360.com/e/u/e3e925cae2304da48a2712eee9eb0cab?utm_campaign=embed&utm_source=other&utm_medium=othe://momento360.com/e/u/e3e925cae2304da48a2712eee9eb0cab?utm_campaign=embed&utm_source=other&utm_medium=other"> </iframe>
 
-Unfortunately, this was a partial photosphere and thus momento cannot process it properly. Google photos does not provide a good way to embed photospheres in websites yet, and the only way to get the viewing would be through Google Maps that is paid :(. If you would like to see the original, please contact me. I have attached a link to the photosphere of a Street View image of the Pantheon.
+Unfortunately, this was a partial photosphere and thus momento cannot process it properly. Google Photo's does not provide a good way to embed photospheres in websites yet, and the only way to get the viewing would be through Google Maps that is paid :(. If you would like to see the original, please contact me. I have attached a link to the photosphere of a Street View image of the Pantheon.
 </div>
 [Street View image](https://www.google.com/maps/place/Pantheon/@41.8986108,12.4768729,3a,75y,44.42h,113.69t/data=!3m8!1e1!3m6!1sAF1QipNC5QrXLy5L-gQ0Z24vQ_Tw8wlFO51x4prxAeWV!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNC5QrXLy5L-gQ0Z24vQ_Tw8wlFO51x4prxAeWV%3Dw203-h100-k-no-pi-30.000002-ya84.44788-ro-0-fo100!7i8704!8i4352!4m5!3m4!1s0x132f604f678640a9:0xcad165fa2036ce2c!8m2!3d41.8986108!4d12.4768729)
 
@@ -277,7 +277,7 @@ src="https://momento360.com/e/u/88606db32472445491f1165f57b3dc78?utm_campaign=em
 We then walked to the [Trevi Fountain](https://www.google.com/maps/place/Trevi+Fountain/@41.901609,12.4816779,16.9z/data=!4m5!3m4!1s0x132f6053278340d5:0xf676f1e1cc02bbb6!8m2!3d41.9009325!4d12.4833132), that while impressive wasn't as spectacular as expected. It may have been because of the sheer crowd of people around us or the fact that we were tired, but we were more interested in getting food than spending time there haha.
 
 ---
-We ended our adventures for the day at [Sora Lucia](https://www.google.com/maps/place/Sora+Lucia/@41.902107,12.4841697,16.9z/data=!4m5!3m4!1s0x0:0x5ac1f93b8ab50b0d!8m2!3d41.9024018!4d12.4870294). For dinner we had a cheese platter starter with the complementary bread as a starter, and for the main course had 3 pastas: pesto, an arrabiata based, and another vegetable one.
+We ended our adventures for the day at [Sora Lucia](https://www.google.com/maps/place/Sora+Lucia/@41.902107,12.4841697,16.9z/data=!4m5!3m4!1s0x0:0x5ac1f93b8ab50b0d!8m2!3d41.9024018!4d12.4870294). For dinner, we had a cheese platter starter with the complimentary bread as a starter, and for the main course had 3 plates of pasta: pesto, an arrabiata based, and another vegetable one.
 
 ---
 <div class="tripblan">
