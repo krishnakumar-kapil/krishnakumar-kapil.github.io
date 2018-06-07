@@ -14,6 +14,12 @@ img.blog-image {
         margin: auto;
     }
 
+    &.height-limit {
+        display:block;
+        max-height: 300px;
+        margin:auto;
+    }
+
 
 
 }
@@ -40,9 +46,17 @@ img.blog-image {
         font-size: 1em;
         font-weight: 500;
         display: inherit;
-        h3 {
-            font-size: 1em;
-        }
+    }
+    .figdesc {
+        color: #666;
+        text-align: center;
+        background: #fff;
+        margin: 0;
+        padding: 0.2em;
+        font-size: 0.9em;
+        font-weight: 300;
+        display: inherit;
+
     }
 
     &.left {
@@ -63,6 +77,8 @@ img.blog-image {
         max-height: 500px;
         margin: auto;
     }
+
+    
 
 }
 

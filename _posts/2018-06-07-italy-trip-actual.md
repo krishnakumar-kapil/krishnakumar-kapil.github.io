@@ -90,13 +90,13 @@ The Colosseum was build to be a combat arena between not only gladiators but bet
 
 <div class="row">
     <div class="4u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/colosseum1.jpg' | relative_url }}" class="blog-image right">
+        <img src="{{'assets/images/blog/italy_trip/day1/colosseum1.jpg' | relative_url }}" class="blog-image">
     </div>
     <div class="4u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/colosseum2.jpg' | relative_url }}" class="blog-image right">
+        <img src="{{'assets/images/blog/italy_trip/day1/colosseum2.jpg' | relative_url }}" class="blog-image">
     </div>
     <div class="4u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/colosseum4.jpg' | relative_url }}" class="blog-image right">
+        <img src="{{'assets/images/blog/italy_trip/day1/colosseum4.jpg' | relative_url }}" class="blog-image">
         <figcaption>Destruction of the Colosseum</figcaption>
     </div>
 </div>
@@ -111,52 +111,83 @@ The Colosseum base used to be filled with sand and the underground passages were
 
 ### Roman Forum
 
-<img src="{{'assets/images/blog/italy_trip/day1/first_roman_road.jpg' | relative_url }}" class="blog-image right">
-<img src="{{'assets/images/blog/italy_trip/day1/roman_road_zero.jpg' | relative_url }}" class="blog-image right">
+<div class="row">
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/first_roman_road.jpg' | relative_url }}" class="blog-image height-limit">
+    </div>
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/roman_road_zero.jpg' | relative_url }}" class="blog-image height-limit">
+    </div>
+</div>
+**Roman Roads:** The saying "All roads lead to Rome" is a phrase that is thrown about a lot. We got a chance to see some of the most popular roads like the First Roman Road and the 5 km straight road in Pompeii. These roads were travelled on the common Roman chariot, though how they survived with their wooden wheels is a mystery to me. If our current cars can't survive potholes with the extensive improvements in tires and suspension, I truly wonder how bad the rides must have been for the old Romans. 
 
-The saying "All roads lead to Rome" is a phrase that is thrown about a lot. We got a chance to see some of the most popular roads like the First Roman Road and the 5 km straight road in Pompeii. These roads were travelled on the common Roman chariot, though how they survived with their wooden wheels is a mystery to me. If our current cars can't survive potholes with the extensive improvements in tires and suspension, I truly wonder how bad the rides must have been for the old Romans. 
-
-<img src="{{'assets/images/blog/italy_trip/day1/archway1.jpg' | relative_url }}" class="blog-image right">
-<img src="{{'assets/images/blog/italy_trip/day1/archway2.jpg' | relative_url }}" class="blog-image right">
+<div class="row">
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/archway1.jpg' | relative_url }}" class="blog-image">
+        <figcaption>Archway</figcaption>
+    </div>
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/archway2.jpg' | relative_url }}" class="blog-image height-limit">
+    </div>
+</div>
 
 The Italian's and Roman's talent for sculpture on stone might be unparalleled, but they seem to have had a problem with keeping heads on their structures. In the 4 cities we visited, a number of them had heads removed off of them. When we asked locals, they said that it could be burglary to get busts of these figures. 
 
-<img src="{{'assets/images/blog/italy_trip/day1/roman_forum_overview.jpg' | relative_url }}" class="blog-image right">
+<div class="item featured">
+    <img src="{{'assets/images/blog/italy_trip/day1/roman_forum_overview.jpg' | relative_url }}" class="blog-image">
+    <figcaption>
+    Roman Forum from Palatine Hill</figcaption>
+    <div class="figdesc">
+    The view from the Palatine Hills was quite incredible, since it was our first time getting a chance to view the entirety of Rome albeit it was from a steep angle. 
+    </div>
+</div>
 
-The view from the Palatine Hills was quite incredible, since it was our first time getting a chance to view the entirety of Rome albeit it was from a steep angle. 
+<div class="item featured">
+    <img src="{{'assets/images/blog/italy_trip/day1/building_pillars.jpg' | relative_url }}" class="blog-image">
+    <figcaption>First view of the pillars seen throughout Greece and Rome.</figcaption>
+</div>
 
-
-<img src="{{'assets/images/blog/italy_trip/day1/building_pillars.jpg' | relative_url }}" class="blog-image right">
-First view of the pillars seen throughout Greece and Rome.
-
-<img src="{{'assets/images/blog/italy_trip/day1/caesar_death.jpg' | relative_url }}" class="blog-image right">
-<img src="{{'assets/images/blog/italy_trip/day1/roman_senate.jpg' | relative_url }}" class="blog-image right">
-<img src="{{'assets/images/blog/italy_trip/day1/hail_caesar.jpg' | relative_url }}" class="blog-image right">
+<div class="row">
+    <div class="4u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/caesar_death.jpg' | relative_url }}" class="blog-image">
+        <figcaption>Caesar Cremation Spot</figcaption>
+    </div>
+    <div class="4u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/roman_senate.jpg' | relative_url }}" class="blog-image">
+        <figcaption>Roman Senate</figcaption>
+    </div>
+    <div class="4u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/hail_caesar.jpg' | relative_url }}" class="blog-image">
+        <figcaption>Caesar Statue</figcaption>
+    </div>
+</div>
 We got a chance to view the spot where supposedly Julius Caesar was burned after his stabbing in the Senate. 
 
-<img src="{{'assets/images/blog/italy_trip/day1/street_artist.jpg' | relative_url }}" class="blog-image right">
-Street Artist
+<div class="item">
+    <img src="{{'assets/images/blog/italy_trip/day1/street_artist.jpg' | relative_url }}" class="blog-image height-limit">
+    <figcaption>Street Artist standing still</figcaption>
+</div>
 
 ---
 ### Start of the Piazzas
 
-<img src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland1.jpg' | relative_url }}" class="blog-image right">
-<img src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland2.jpg' | relative_url }}" class="blog-image right">
+<img src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland1.jpg' | relative_url }}" class="blog-image">
+<img src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland2.jpg' | relative_url }}" class="blog-image">
 After the guided tour of the Colosseum and the Roman Forum, we started walking towards the various famous *Piazzas* in the city like Piazza Venetia. Here we got a chance to view the magnificent [Altare della Patria (Altar of the Fatherland)](https://www.google.com/maps/place/Altar+of+the+Fatherland/@41.8933561,12.4819043,16z/data=!4m16!1m8!3m7!1s0x132f61af5a97eb77:0xeb5107cdce01d746!2sHotel+Centro!5m1!1s2018-06-08!8m2!3d41.9009077!4d12.4949035!3m6!1s0x132f604d1b805de3:0x21154807a7b83fe1!5m1!1s2018-06-08!8m2!3d41.8945977!4d12.4831268), built in honor of Victor Emmanuel (the first king of united Italy). This structure was truly a magnificent site to witness, with the top of the monument with striking black marble. The building was in striking white in comparison to the reddish tones present in all the other buildings and residential areas of Rome that allowed it to be viewed and recognized from viewpoints all across Rome. 
 
 After Piazza Venetia, we started walking to the Pantheon whilst getting a chance to go through some super tiny streets of Rome. When thinking of Rome prior to coming to the city, this is the kind of narrow pathways I imagined. Another interesting point in the city is that cars are parked with 2 wheels on the sidewalk and 2 wheels on the main road to maximize road space. While India is known for it's poor road sense and traffic sense, I have truly never been as scared for my life as I have crossing the roads of Italy.
 
 <div class="personal">
-<img src="{{'assets/images/blog/italy_trip/day1/parents_piazza_venetia.jpg' | relative_url }}" class="blog-image right">
-<img src="{{'assets/images/blog/italy_trip/day1/kk_solo1.jpg' | relative_url }}" class="blog-image right">
-<img src="{{'assets/images/blog/italy_trip/day1/kapil_solo1.jpg' | relative_url }}" class="blog-image right">
-<img src="{{'assets/images/blog/italy_trip/day1/kala_solo1.jpg' | relative_url }}" class="blog-image right">
+<img src="{{'assets/images/blog/italy_trip/day1/parents_piazza_venetia.jpg' | relative_url }}" class="blog-image">
+<img src="{{'assets/images/blog/italy_trip/day1/kk_solo1.jpg' | relative_url }}" class="blog-image">
+<img src="{{'assets/images/blog/italy_trip/day1/kapil_solo1.jpg' | relative_url }}" class="blog-image">
+<img src="{{'assets/images/blog/italy_trip/day1/kala_solo1.jpg' | relative_url }}" class="blog-image">
 </div>
 
 ---
 
 ### Pantheon
-<img src="{{'assets/images/blog/italy_trip/day1/pantheon.jpg' | relative_url }}" class="blog-image right">
+<img src="{{'assets/images/blog/italy_trip/day1/pantheon.jpg' | relative_url }}" class="blog-image">
 <div class="photosphere">
 <iframe height="350px" width="100%" allowfullscreen="true" src="https://momento360.com/e/u/e3e925cae2304da48a2712eee9eb0cab?utm_campaign=embed&utm_source=other&utm_medium=othe://momento360.com/e/u/e3e925cae2304da48a2712eee9eb0cab?utm_campaign=embed&utm_source=other&utm_medium=other"> </iframe>
 
@@ -173,9 +204,9 @@ Outside the Pantheon, there was a violinist playing famous pop songs like Ed She
 We then left for Piazza Navona, home of [Sant'Agnes in Agone](https://www.google.com/maps/place/Sant'Agnese+in+Agone/@41.8987146,12.4728067,18z/data=!4m12!1m6!3m5!1s0x132f604f678640a9:0xcad165fa2036ce2c!2sPantheon!8m2!3d41.8986108!4d12.4768729!3m4!1s0x0:0x896b94c3332ab951!8m2!3d41.898844!4d12.4725519) and 3 beautiful fountains. With residential buildings surrounding the Piazza with live music being performed, it was a relaxing spot to rest our tired legs and bodies. A standard feature of the Italian home are these wooden shuttered windows that are able to fold in different places to provide more air and light. It also seemed like they could change the direction of the slats from inside. After experiencing poor blinds in Austin and extreme sunlight in the mornings, this system would've been so so nice to have. 
 
 TODO: add the photo from naples with this
-<img src="{{'assets/images/blog/italy_trip/day1/piazza_navona_woman.jpg' | relative_url }}" class="blog-image right">
+<img src="{{'assets/images/blog/italy_trip/day1/piazza_navona_woman.jpg' | relative_url }}" class="blog-image">
 <div class="personal">
-<img src="{{'assets/images/blog/italy_trip/day1/piazza_navona_fountain_family.jpg' | relative_url }}" class="blog-image right">
+<img src="{{'assets/images/blog/italy_trip/day1/piazza_navona_fountain_family.jpg' | relative_url }}" class="blog-image">
 </div>
 
 The church of Sant'Agnes in Agone had a beautiful interior of the church with incredible paintings and sculptures. The Italian artist's ability to paint on the ceiling of their churches with such detail was something that I've never appreciated before. This church was also the first where we saw the sheer amount of gold paint or actual gold used to decorate the arches and ceiling.
@@ -188,17 +219,17 @@ src="https://momento360.com/e/u/88606db32472445491f1165f57b3dc78?utm_campaign=em
 
 
 Rome also had a large amount of Egyptian obelisks present that I, as of now, have not found the reason for.
-<img src="{{'assets/images/blog/italy_trip/day1/obelisk.jpg' | relative_url }}" class="blog-image right">
-<img src="{{'assets/images/blog/italy_trip/day1/navona_fountain.jpg' | relative_url }}" class="blog-image right">
+<img src="{{'assets/images/blog/italy_trip/day1/obelisk.jpg' | relative_url }}" class="blog-image">
+<img src="{{'assets/images/blog/italy_trip/day1/navona_fountain.jpg' | relative_url }}" class="blog-image">
 
 <div class="personal">
-<img src="{{'assets/images/blog/italy_trip/day1/government_office.jpg' | relative_url }}" class="blog-image right">
+<img src="{{'assets/images/blog/italy_trip/day1/government_office.jpg' | relative_url }}" class="blog-image">
 </div>
 
 ---
 ### Trevi Fountain
 
-<img src="{{'assets/images/blog/italy_trip/day1/trevi_fountain.jpg' | relative_url }}" class="blog-image right">
+<img src="{{'assets/images/blog/italy_trip/day1/trevi_fountain.jpg' | relative_url }}" class="blog-image">
 
 We then walked to the [Trevi Fountain](https://www.google.com/maps/place/Trevi+Fountain/@41.901609,12.4816779,16.9z/data=!4m5!3m4!1s0x132f6053278340d5:0xf676f1e1cc02bbb6!8m2!3d41.9009325!4d12.4833132), that while impressive wasn't as spectacular as expected. It may have been because of the sheer crowd of people around us or the fact that we were tired, but we were more interested in getting food than spending time there haha.
 
