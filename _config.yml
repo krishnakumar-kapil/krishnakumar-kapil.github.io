@@ -60,5 +60,3 @@ google_analytics:
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
 
-kramdown:
-  parse_block_html: true
