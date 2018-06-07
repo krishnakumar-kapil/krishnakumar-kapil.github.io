@@ -40,8 +40,8 @@ email: krishnakumar.kapil@gmail.com
 avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "https://krishnakumar-kapil.github.io/" # the subpath of your site, e.g. /blog
-url: "https://krishnakumar-kapil.github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
