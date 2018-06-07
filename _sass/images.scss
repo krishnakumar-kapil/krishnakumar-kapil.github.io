@@ -1,0 +1,42 @@
+.personal {
+    display: none;
+}
+
+img.blog-image {
+    border: 0;
+    display: block;
+
+    &.left {
+        float: left;
+        width: 30%;
+        margin: 0 1em 1em 0;
+        max-height: 500px;
+    }
+
+    &.right {
+        float: right;
+        width: 30%;
+        margin: 0 0 1em 1em;
+        max-height: 500px;
+    }
+
+    &.featured {
+        display: block;
+        width: 100%;
+        margin: 0 0 2em 0;
+    }
+
+    &.vertical-featured {
+        display: block;
+        max-height: 500px;
+        margin: auto;
+    }
+
+
+}
+
+.tripblan {
+    display: block;
+    margin: auto;
+    max-width: 90%;
+}
