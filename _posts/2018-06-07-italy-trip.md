@@ -1,7 +1,7 @@
 ---
 title: Italy Trip
 layout: post
-hide: false
+hide: true
 ---
 
 ## Day 0 (May 21, 2018) 
