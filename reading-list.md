@@ -1,12 +1,12 @@
 ---
 title: Reading List
-subtitle: a list of books I read
+subtitle: a list of books I'd recommend
 layout: "page"
 icon: fa-book
-order: 3
+order: 4
 ---
 
-I love books! Here are some I'm reading now:
+I love books! You can go follow me on [Goodreads](https://www.goodreads.com/user/show/42174469-kapil). Here are some I've read in the past and would recommend:
 
 1. Robert Burton: *The Anatomy of Melancholy*
 2. Robert Musil: *The Man Without Qualities*

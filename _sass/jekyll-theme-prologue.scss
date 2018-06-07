@@ -103,7 +103,7 @@
 	}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 1.75em;
 	}
 
 	header {
@@ -207,7 +207,7 @@
 
 /* Sections/Article */
 
-	section, article {
+	section {
 		margin-bottom: 3em;
 
 		> :last-child,
@@ -233,7 +233,23 @@
 			padding-left: 0.25em;
 			margin-left: 1.25em;
 		}
+
+        h1 {
+            font-size: 3em;
+        }
+
+        h2 {
+            font-size: 2em;
+            letter-spacing: -1px;
+        }
+
+        h3 {
+            font-size: 1.75em;
+        }
+
 	}
+
+    
 
 /* Image */
 
@@ -249,7 +265,7 @@
 		&.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f00;
+			background: #222629 url('images/overlay.png');
 
 			img {
 				width: 48px;
