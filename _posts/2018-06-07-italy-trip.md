@@ -361,7 +361,7 @@ After the Borghese Gardens we started heading west towards the Vatican. Along th
 
 After lunch, we got a chance to visit the [Piazza del Popolo](https://www.wikiwand.com/en/Piazza_del_Popolo). With two churches on either side of the main obelisk in an extremely wide area, it was an incredible 360 view. After the piazza, we crossed the famous [River Tiber](https://www.wikiwand.com/en/Tiber) which is known to be the birthplace of Rome by the twin brothers Romulus and Remus. Our first time on the west side of the Tiber River, we managed to walk on a road just filled with expensive fashion shops. One of the names was extremely funny :P.
 
-<div class="item height_limit">
+<div class="item left">
     <img src="{{'assets/images/blog/italy_trip/day2/pull_stop.jpg' | relative_url }}" class="blog-image">
 </div>
 
@@ -372,6 +372,66 @@ Before we arrived at our destination, the ever concerning toilet break had to be
 
 Another source of frustration was the lack of free drinking water in the nation. Hotels and restaurants just didn't provide water and expected the customers to pay for bottled water. Even if we brought our own bottled water, in certain places they made us pay for their bottled water. 
 
-### Vatican Tour
+### Vatican Museum
 
-We started the tour by heading to the Vatican Museum that had a huge line outside. Luckily, we had got the Skip-the-line-Tickets that allowed us to go with an official tour guide and as the name suggests: skip the line. 
+We started the tour by heading to the Vatican Museum that had a huge line outside. Luckily, we had got the Skip-the-line-Tickets that allowed us to go with an official tour guide and as the name suggests: skip the line. With the skip-the-line tickets we also had the advantage of not having to bring our passports for ID verification (dad made the right call to not bring them much to my chagrin).
+
+<div class="row">
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day2/pinecone_vatican.jpg' | relative_url }}" class="blog-image">
+    </div>
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day2/metal_earth.jpg' | relative_url }}" class="blog-image">
+    </div>
+</div>
+
+Our tour guide initially brought us to a foyer with this pine-cone structure and the metallic earth structure. The museum was one long corridor that culminated in the Sistine Chapel. Along the corridor, most of the ceilings were painted in a fashion to give a 3-d look to the paintings that was extremely realistic. I ended up looking at each ceiling that looked 3-d in the future to check if it was actually sculpted or painted. 
+<div class="row">
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day2/3d_ceiling.jpg' | relative_url }}" class="blog-image">
+        <figcaption>3D Looking 2D Painting</figcaption>
+    </div>
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day2/museum_flooring.jpg' | relative_url }}" class="blog-image">
+        <figcaption>Museum Flooring</figcaption>
+    </div>
+</div>
+
+<div class="item featured">
+    <img src="{{'assets/images/blog/italy_trip/day2/tapestry.jpg' | relative_url }}" class="blog-image">
+    <figcaption>Tapestries along the Museum</figcaption>
+    <div class="figdesc">
+    The tapestries seen were all handwoven and done to incredible detail.
+    </div>
+</div>
+
+My favorite room has to be the map room. Along the walls, incredibly detailed topography maps of the parts of Italy were hand painted. The ceiling was an amalgamation of beautiful paintings with the framing all done in gold to give an opulent and indulgent feel to the room
+
+<div class="row">
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day2/map.jpg' | relative_url }}" class="blog-image">
+        <figcaption>One of the maps portraying subsection of italy</figcaption>
+    </div>
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day2/map_room_ceiling.jpg' | relative_url }}" class="blog-image">
+        <figcaption>Ceiling of the map room</figcaption>
+    </div>
+</div>
+
+Our trip got slightly delayed because a couple, who funnily thought Appa was a television anchor from Minnesota, got separated during the mad chaos of the crowd.
+
+<div class="item featured">
+    <img src="{{'assets/images/blog/italy_trip/day2/museum_dome.jpg' | relative_url }}" class="blog-image">
+    <figcaption>Painted dome of the Museum</figcaption>
+    <div class="figdesc">
+    This was right before we entered the Sistine Chapel
+    </div>
+</div>
+
+### [Sistine Chapel](https://www.wikiwand.com/en/Sistine_Chapel)
+
+Unfortunately, it is prohibited to take pictures in the Chapel itself. The Chapel is a magnificent piece of art with each wall and the ceiling painted in masterpieces with the dominant color being blue of the sky. Each group gets such little time to look at the various paintings. Michelangelo's famous [The Last Judgement](https://www.wikiwand.com/en/The_Last_Judgment_(Michelangelo) adorns the altar wall of the Chapel.
+
+### [St. Peters Basilica](https://www.wikiwand.com/en/St._Peter%27s_Basilica)
+
+The longest catholic church in the world.
