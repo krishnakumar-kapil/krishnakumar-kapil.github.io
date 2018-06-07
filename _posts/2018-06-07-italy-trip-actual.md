@@ -163,31 +163,54 @@ The Italian's and Roman's talent for sculpture on stone might be unparalleled, b
 </div>
 We got a chance to view the spot where supposedly Julius Caesar was burned after his stabbing in the Senate. 
 
-<div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day1/street_artist.jpg' | relative_url }}" class="blog-image height-limit">
-    <figcaption>Street Artist standing still</figcaption>
+<div class="row">
+    <div class="12u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/street_artist.jpg' | relative_url }}" class="blog-image height-limit">
+        <figcaption>Street Artist standing still</figcaption>
+    </div>
 </div>
 
 ---
 ### Start of the Piazzas
+<div class="row">
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland1.jpg' | relative_url }}" class="blog-image">
+        <figcaption>Altare della Patria</figcaption>
+    </div>
+    <div class="12u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland2.jpg' | relative_url }}" class="blog-image">
+    </div>
+</div>
 
-<img src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland1.jpg' | relative_url }}" class="blog-image">
-<img src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland2.jpg' | relative_url }}" class="blog-image">
 After the guided tour of the Colosseum and the Roman Forum, we started walking towards the various famous *Piazzas* in the city like Piazza Venetia. Here we got a chance to view the magnificent [Altare della Patria (Altar of the Fatherland)](https://www.google.com/maps/place/Altar+of+the+Fatherland/@41.8933561,12.4819043,16z/data=!4m16!1m8!3m7!1s0x132f61af5a97eb77:0xeb5107cdce01d746!2sHotel+Centro!5m1!1s2018-06-08!8m2!3d41.9009077!4d12.4949035!3m6!1s0x132f604d1b805de3:0x21154807a7b83fe1!5m1!1s2018-06-08!8m2!3d41.8945977!4d12.4831268), built in honor of Victor Emmanuel (the first king of united Italy). This structure was truly a magnificent site to witness, with the top of the monument with striking black marble. The building was in striking white in comparison to the reddish tones present in all the other buildings and residential areas of Rome that allowed it to be viewed and recognized from viewpoints all across Rome. 
 
 After Piazza Venetia, we started walking to the Pantheon whilst getting a chance to go through some super tiny streets of Rome. When thinking of Rome prior to coming to the city, this is the kind of narrow pathways I imagined. Another interesting point in the city is that cars are parked with 2 wheels on the sidewalk and 2 wheels on the main road to maximize road space. While India is known for it's poor road sense and traffic sense, I have truly never been as scared for my life as I have crossing the roads of Italy.
 
 <div class="personal">
-<img src="{{'assets/images/blog/italy_trip/day1/parents_piazza_venetia.jpg' | relative_url }}" class="blog-image">
-<img src="{{'assets/images/blog/italy_trip/day1/kk_solo1.jpg' | relative_url }}" class="blog-image">
-<img src="{{'assets/images/blog/italy_trip/day1/kapil_solo1.jpg' | relative_url }}" class="blog-image">
-<img src="{{'assets/images/blog/italy_trip/day1/kala_solo1.jpg' | relative_url }}" class="blog-image">
+    <div class="item">
+        <img src="{{'assets/images/blog/italy_trip/day1/parents_piazza_venetia.jpg' | relative_url }}" class="blog-image featured">
+    </div>
+
+    <div class="row">
+        <div class="4u 12u$(mobile) item">
+            <img src="{{'assets/images/blog/italy_trip/day1/kk_solo1.jpg' | relative_url }}" class="blog-image">
+        </div>
+        <div class="4u 12u$(mobile) item">
+            <img src="{{'assets/images/blog/italy_trip/day1/kapil_solo1.jpg' | relative_url }}" class="blog-image">
+        </div>
+        <div class="4u 12u$(mobile) item">
+            <img src="{{'assets/images/blog/italy_trip/day1/kala_solo1.jpg' | relative_url }}" class="blog-image">
+        </div>
+    </div>
 </div>
 
 ---
 
 ### Pantheon
-<img src="{{'assets/images/blog/italy_trip/day1/pantheon.jpg' | relative_url }}" class="blog-image">
+<div class="item featured">
+    <img src="{{'assets/images/blog/italy_trip/day1/pantheon.jpg' | relative_url }}" class="blog-image">
+    <figcaption>The Roma Pantheon</figcaption>
+</div>
 <div class="photosphere">
 <iframe height="350px" width="100%" allowfullscreen="true" src="https://momento360.com/e/u/e3e925cae2304da48a2712eee9eb0cab?utm_campaign=embed&utm_source=other&utm_medium=othe://momento360.com/e/u/e3e925cae2304da48a2712eee9eb0cab?utm_campaign=embed&utm_source=other&utm_medium=other"> </iframe>
 
@@ -201,12 +224,17 @@ Outside the Pantheon, there was a violinist playing famous pop songs like Ed She
 
 ---
 ### Piazza Navona
+
+<div class="item right">
+<img src="{{'assets/images/blog/italy_trip/day1/piazza_navona_woman.jpg' | relative_url }}" class="blog-image height-limit">
+</div>
 We then left for Piazza Navona, home of [Sant'Agnes in Agone](https://www.google.com/maps/place/Sant'Agnese+in+Agone/@41.8987146,12.4728067,18z/data=!4m12!1m6!3m5!1s0x132f604f678640a9:0xcad165fa2036ce2c!2sPantheon!8m2!3d41.8986108!4d12.4768729!3m4!1s0x0:0x896b94c3332ab951!8m2!3d41.898844!4d12.4725519) and 3 beautiful fountains. With residential buildings surrounding the Piazza with live music being performed, it was a relaxing spot to rest our tired legs and bodies. A standard feature of the Italian home are these wooden shuttered windows that are able to fold in different places to provide more air and light. It also seemed like they could change the direction of the slats from inside. After experiencing poor blinds in Austin and extreme sunlight in the mornings, this system would've been so so nice to have. 
 
 TODO: add the photo from naples with this
-<img src="{{'assets/images/blog/italy_trip/day1/piazza_navona_woman.jpg' | relative_url }}" class="blog-image">
 <div class="personal">
-<img src="{{'assets/images/blog/italy_trip/day1/piazza_navona_fountain_family.jpg' | relative_url }}" class="blog-image">
+    <div class="item">
+        <img src="{{'assets/images/blog/italy_trip/day1/piazza_navona_fountain_family.jpg' | relative_url }}" class="blog-image featured">
+    </div>
 </div>
 
 The church of Sant'Agnes in Agone had a beautiful interior of the church with incredible paintings and sculptures. The Italian artist's ability to paint on the ceiling of their churches with such detail was something that I've never appreciated before. This church was also the first where we saw the sheer amount of gold paint or actual gold used to decorate the arches and ceiling.
@@ -218,20 +246,40 @@ src="https://momento360.com/e/u/88606db32472445491f1165f57b3dc78?utm_campaign=em
 [Street View image](https://www.google.com/maps/place/Sant'Agnese+in+Agone/@41.8989021,12.4723111,3a,75y,75.28h,146.16t/data=!3m8!1e1!3m6!1sAF1QipOga9xcNvX-uKNAUlRJW-13srnuu_3CKkUiSSEk!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOga9xcNvX-uKNAUlRJW-13srnuu_3CKkUiSSEk%3Dw203-h100-k-no-pi-23-ya202.5-ro0-fo100!7i9300!8i4650!4m12!1m6!3m5!1s0x132f604f678640a9:0xcad165fa2036ce2c!2sPantheon!8m2!3d41.8986108!4d12.4768729!3m4!1s0x0:0x896b94c3332ab951!8m2!3d41.898844!4d12.4725519)
 
 
-Rome also had a large amount of Egyptian obelisks present that I, as of now, have not found the reason for.
-<img src="{{'assets/images/blog/italy_trip/day1/obelisk.jpg' | relative_url }}" class="blog-image">
-<img src="{{'assets/images/blog/italy_trip/day1/navona_fountain.jpg' | relative_url }}" class="blog-image">
+<div class="row">
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/obelisk.jpg' | relative_url }}" class="blog-image">
+        <figcaption>Obelisk</figcaption>
+        <div class="figdesc">
+        Rome also had a large amount of Egyptian obelisks present that I, as of now, have not found the reason for.
+        </div>
+    </div>
+    <div class="6u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/government_office.jpg' | relative_url }}" class="blog-image">
+        <figcaption>Government Office (Montecitori Palace)</figcaption>
+    </div>
+    <div class="12u 12u$(mobile) item">
+        <img src="{{'assets/images/blog/italy_trip/day1/navona_fountain.jpg' | relative_url }}" class="blog-image">
+        <figcaption>The other fountain in Piazza Navona</figcaption>
+    </div>
 
-<div class="personal">
-<img src="{{'assets/images/blog/italy_trip/day1/government_office.jpg' | relative_url }}" class="blog-image">
 </div>
+
 
 ---
 ### Trevi Fountain
 
+<div class="item featured">
 <img src="{{'assets/images/blog/italy_trip/day1/trevi_fountain.jpg' | relative_url }}" class="blog-image">
+</div>
 
 We then walked to the [Trevi Fountain](https://www.google.com/maps/place/Trevi+Fountain/@41.901609,12.4816779,16.9z/data=!4m5!3m4!1s0x132f6053278340d5:0xf676f1e1cc02bbb6!8m2!3d41.9009325!4d12.4833132), that while impressive wasn't as spectacular as expected. It may have been because of the sheer crowd of people around us or the fact that we were tired, but we were more interested in getting food than spending time there haha.
 
 ---
 We ended our adventures for the day at [Sora Lucia](https://www.google.com/maps/place/Sora+Lucia/@41.902107,12.4841697,16.9z/data=!4m5!3m4!1s0x0:0x5ac1f93b8ab50b0d!8m2!3d41.9024018!4d12.4870294). For dinner we had a cheese platter starter with the complementary bread as a starter, and for the main course had 3 pastas: pesto, an arrabiata based, and another vegetable one.
+
+---
+<div class="tripblan">
+<iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=1&color=0094ff&markercolor=0094ff" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
+</div>
+
