@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Kapil Krishnakumar, a programmer interested in Computer Vision
   Distributed Systems going to Facebook. I also post about travel, books and food!
 author: Kapil Krishnakumar
-email: krishnakumar.kapil@gmail.com
+email: krishnakumar.kapil@utexas.edu
 avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
@@ -45,10 +45,10 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-github_url:
+github_url: https://github.com/krishnakumar-kapil
 googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/krishnakumarkapil/
 pinterest_url:
 slack_url:
 twitter_url:
