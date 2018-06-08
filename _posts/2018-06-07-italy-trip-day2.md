@@ -11,7 +11,7 @@ hide: false
 We had started off the day at Hotel Centro. While my parents wake up really early (6:00 am) on holidays, this day was special where we all slept in till 9 am. After that just getting ready and having breakfast brought us to 11 am. The breakfast in Italy generally was a boatload of sweet items like croissants and baked goods with some untoasted bread. We were lucky that every hotel had cereal, fruits and thankfully yoghurt :O.
 
 <div class="item right">
-    <img src="{{'assets/images/blog/italy_trip/day2/san_maggiore1.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{'assets/images/blog/italy_trip/day2/san_maggiore1.jpg' | relative_url }}" class="blog-image">
     <figcaption>Basilica Papale di Santa Maria Maggiore</figcaption>
 </div>
 
@@ -21,7 +21,7 @@ We started our tourism for the day by going to see [Basilica Papale di Santa Mar
 ### Spanish Steps
 
 <div class="item left">
-    <img src="{{'assets/images/blog/italy_trip/day2/spanish_steps.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{'assets/images/blog/italy_trip/day2/spanish_steps.jpg' | relative_url }}" class="blog-image">
     <figcaption>Spanish Steps</figcaption>
 </div>
 
@@ -37,13 +37,13 @@ However, we did get our first view over the whole of Rome at the top of the Span
 <div class="personal">
     <div class="row">
         <div class="4u 12u$(mobile) item">
-            <img src="{{'assets/images/blog/italy_trip/day2/family_in_rome.jpg' | relative_url }}" class="blog-image">
+            <img data-src="{{'assets/images/blog/italy_trip/day2/family_in_rome.jpg' | relative_url }}" class="blog-image">
         </div>
         <div class="4u 12u$(mobile) item">
-            <img src="{{'assets/images/blog/italy_trip/day2/happy_parents.jpg' | relative_url }}" class="blog-image">
+            <img data-src="{{'assets/images/blog/italy_trip/day2/happy_parents.jpg' | relative_url }}" class="blog-image">
         </div>
         <div class="4u 12u$(mobile) item">
-            <img src="{{'assets/images/blog/italy_trip/day2/parents_under_trees.jpg' | relative_url }}" class="blog-image">
+            <img data-src="{{'assets/images/blog/italy_trip/day2/parents_under_trees.jpg' | relative_url }}" class="blog-image">
         </div>
     </div>
 </div>
@@ -52,29 +52,29 @@ However, we did get our first view over the whole of Rome at the top of the Span
 As the navigator throughout the trip, I started guiding the family towards the Borghese gardens. On the way, we got to see even better Vista Points of Rome. The gardens themselves were lush with greenery. Instead of the trimmed top heavy trees seen throughout Italy, the gardens had trees that we were more familiar with. 
 
 <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day2/borghese_panorama.jpg' | relative_url }}" class="blog-image featured">
+    <img data-src="{{'assets/images/blog/italy_trip/day2/borghese_panorama.jpg' | relative_url }}" class="blog-image featured">
     <figcaption>Rome Panorama from Borghese Gardens</figcaption>
 </div>
 <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day2/rome_view.jpg' | relative_url }}" class="blog-image featured">
+    <img data-src="{{'assets/images/blog/italy_trip/day2/rome_view.jpg' | relative_url }}" class="blog-image featured">
     <figcaption>Rome View from Borghese Gardens</figcaption>
 </div>
 
 
 <div class="row">
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day2/borghese_tree_pond.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day2/borghese_tree_pond.jpg' | relative_url }}" class="blog-image">
 		<span class="figdesc">Notice the difference between the trees to the left and center</span>
     </div>
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day2/appa_jumping_gateway.jpg' | relative_url }}" class="blog-image height-limit">
+        <img data-src="{{'assets/images/blog/italy_trip/day2/appa_jumping_gateway.jpg' | relative_url }}" class="blog-image height-limit">
 		<figcaption>Another Archway</figcaption>
     </div>
 </div>
 
 ---
 <div class="item right">
-    <img src="{{'assets/images/blog/italy_trip/day2/lunch.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{'assets/images/blog/italy_trip/day2/lunch.jpg' | relative_url }}" class="blog-image">
 </div>
 
 After the Borghese Gardens we started heading west towards the Vatican. Along the way we got lunch at a small cafe called [Mondo Arancina](https://www.google.com/maps/place/Mondo+Arancina/@41.9118113,12.4745687,17z/data=!4m16!1m8!3m7!1s0x132f61af5a97eb77:0xeb5107cdce01d746!2sHotel+Centro!5m1!1s2018-06-08!8m2!3d41.9009077!4d12.4949035!3m6!1s0x0:0x48b559442fe000c4!5m1!1s2018-06-08!8m2!3d41.912934!4d12.4755717) that was truly bustling. We managed to get a great deal for a pizza, a fried rice ball, and a dessert called [Cannoli](https://en.wikipedia.org/wiki/Cannoli).
@@ -83,7 +83,7 @@ After the Borghese Gardens we started heading west towards the Vatican. Along th
 After lunch, we got a chance to visit the [Piazza del Popolo](https://www.wikiwand.com/en/Piazza_del_Popolo). With two churches on either side of the main obelisk in an extremely wide area, it was an incredible 360 view. After the piazza, we crossed the famous [River Tiber](https://www.wikiwand.com/en/Tiber) which is known to be the birthplace of Rome by the twin brothers Romulus and Remus. Our first time on the west side of the Tiber River, we managed to walk on a road just filled with expensive fashion shops. One of the names was extremely funny :P.
 
 <div class="item left">
-    <img src="{{'assets/images/blog/italy_trip/day2/pull_stop.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{'assets/images/blog/italy_trip/day2/pull_stop.jpg' | relative_url }}" class="blog-image">
 </div>
 
 ---
@@ -99,11 +99,11 @@ We started the tour by heading to the Vatican Museum that had a huge line outsid
 
 <div class="row">
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day2/pinecone_vatican.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day2/pinecone_vatican.jpg' | relative_url }}" class="blog-image">
 		<figcaption>The Pinecone</figcaption>
     </div>
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day2/metal_earth.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day2/metal_earth.jpg' | relative_url }}" class="blog-image">
 		<figcaption>Metal Earth</figcaption>
     </div>
 </div>
@@ -111,17 +111,17 @@ We started the tour by heading to the Vatican Museum that had a huge line outsid
 Our tour guide initially brought us to a foyer with this pine-cone structure and the metallic earth structure. The museum was one long corridor that culminated in the Sistine Chapel. Along the corridor, most of the ceilings were painted in a fashion to give a 3-d look to the paintings that was extremely realistic. I ended up looking at each ceiling that looked 3-d in the future to check if it was actually sculpted or painted. 
 <div class="row">
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day2/3d_ceiling.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day2/3d_ceiling.jpg' | relative_url }}" class="blog-image">
         <figcaption>3D Looking 2D Painting</figcaption>
     </div>
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day2/museum_flooring.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day2/museum_flooring.jpg' | relative_url }}" class="blog-image">
         <figcaption>Museum Flooring</figcaption>
     </div>
 </div>
 
 <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day2/tapestry.jpg' | relative_url }}" class="blog-image featured">
+    <img data-src="{{'assets/images/blog/italy_trip/day2/tapestry.jpg' | relative_url }}" class="blog-image featured">
     <figcaption>Tapestries along the Museum</figcaption>
     <div class="figdesc">
     The tapestries seen were all handwoven and done to incredible detail.
@@ -132,11 +132,11 @@ My favorite room has to be the map room. Along the walls, incredibly detailed to
 
 <div class="row">
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day2/map.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day2/map.jpg' | relative_url }}" class="blog-image">
         <figcaption>One of the maps portraying a subsection of italy</figcaption>
     </div>
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day2/map_room_ceiling.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day2/map_room_ceiling.jpg' | relative_url }}" class="blog-image">
         <figcaption>Ceiling of the map room</figcaption>
     </div>
 </div>
@@ -146,16 +146,16 @@ Our trip got slightly delayed because a couple, who funnily thought Appa was a t
     However, our tour guide didn't hold it high enough haha and Amma suggested holding it higher upon which the tour guide happily handed it to Appa to hold. I got roped in when the tour guide had to go get the official tickets for the Vatican. Unfortunately, we were unpaid in our meaningful contributions.
     <div class="row">
         <div class="6u 12u$(mobile) item">
-            <img src="{{'assets/images/blog/italy_trip/day2/kapil_holding_flag.jpg' | relative_url }}" class="blog-image height-limit">
+            <img data-src="{{'assets/images/blog/italy_trip/day2/kapil_holding_flag.jpg' | relative_url }}" class="blog-image height-limit">
         </div>
         <div class="6u 12u$(mobile) item">
-            <img src="{{'assets/images/blog/italy_trip/day2/dad_holding_flag.jpg' | relative_url }}" class="blog-image height-limit">
+            <img data-src="{{'assets/images/blog/italy_trip/day2/dad_holding_flag.jpg' | relative_url }}" class="blog-image height-limit">
         </div>
     </div>
 </div>
 
 <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day2/museum_dome.jpg' | relative_url }}" class="blog-image featured">
+    <img data-src="{{'assets/images/blog/italy_trip/day2/museum_dome.jpg' | relative_url }}" class="blog-image featured">
     <figcaption>Painted dome of the Museum</figcaption>
     <div class="figdesc">
     This was right before we entered the Sistine Chapel
@@ -170,14 +170,14 @@ Unfortunately, it is prohibited to take pictures in the Chapel itself. The Chape
 ### [St. Peter's Basilica](https://www.wikiwand.com/en/St._Peter%27s_Basilica)
 
 <div class="item right">
-    <img src="{{ 'assets/images/blog/italy_trip/day2/basilica_ceiling.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{ 'assets/images/blog/italy_trip/day2/basilica_ceiling.jpg' | relative_url }}" class="blog-image">
     <figcaption>Basilica Ceiling</figcaption>
 </div>
 
 The longest catholic church in the world. Though you can't tell when you visit, the Basilica is actually in the form of a crucifix. It is a really incredible site with an incredibly long lead-up to the main dome. The main corridor has an arch ceiling with these consistent rectangular patterns that managed to expose the height and size of the Basilica. Unlike other Basilicas that have circular pillars, St. Peter's Basilica has rectangular pillars with engravings of what seemed to be griffins at the top of them. In addition, these pillars are present in the foyer of the basilica. The main corridor of the basilica also has a list of the largest churches in the world on it's floor. Naturally, St. Peter's Basilica is the largest.
 
 <div class="item left">
-    <img src="{{ 'assets/images/blog/italy_trip/day2/pieta.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{ 'assets/images/blog/italy_trip/day2/pieta.jpg' | relative_url }}" class="blog-image">
     <figcaption>Michelangelo's Pieta</figcaption>
 </div>
 
@@ -189,11 +189,11 @@ The main dome of the Basilica was designed by Michelangelo. The altar is a refer
 
 <div class="row">
 	<div class="6u 12u$(mobile) item">
-		<img src="{{ 'assets/images/blog/italy_trip/day2/main_altar.jpg' | relative_url }}" class="blog-image">
+		<img data-src="{{ 'assets/images/blog/italy_trip/day2/main_altar.jpg' | relative_url }}" class="blog-image">
 		<figcaption>Main Altar</figcaption>
 	</div>
 	<div class="6u 12u$(mobile) item">
-		<img src="{{'assets/images/blog/italy_trip/day2/st_peter_enthroned.jpg' | relative_url }}" class="blog-image">
+		<img data-src="{{'assets/images/blog/italy_trip/day2/st_peter_enthroned.jpg' | relative_url }}" class="blog-image">
 		<figcaption>St. Peter Enthroned</figcaption>
 		<span class="figdesc">The feet of the statue are worn away due to pilgrims kissing them.</span>
 	</div>
@@ -202,18 +202,18 @@ The main dome of the Basilica was designed by Michelangelo. The altar is a refer
 <!-- TODO: change to photosphere -->
 <div class="photosphere">
 	<div class="item">
-		<img src="{{ 'assets/images/blog/italy_trip/day2/photospheres/basilica.jpg' | relative_url }}" class="blog-image featured">
+		<img data-src="{{ 'assets/images/blog/italy_trip/day2/photospheres/basilica.jpg' | relative_url }}" class="blog-image featured">
 		<figcaption>Basilica Photosphere</figcaption>
 	</div>
 </div>
 
 <div class="row">
 	<div class="6u 12u$(mobile) item">
-		<img src="{{ 'assets/images/blog/italy_trip/day2/pontifical_swiss_guard.jpg' | relative_url }}" class="blog-image">
+		<img data-src="{{ 'assets/images/blog/italy_trip/day2/pontifical_swiss_guard.jpg' | relative_url }}" class="blog-image">
 		<figcaption>Pontifical Swiss Guard</figcaption>
 	</div>
 	<div class="6u 12u$(mobile) item">
-		<img src="{{'assets/images/blog/italy_trip/day2/pope_palace.jpg' | relative_url }}" class="blog-image">
+		<img data-src="{{'assets/images/blog/italy_trip/day2/pope_palace.jpg' | relative_url }}" class="blog-image">
 		<figcaption>Pope Palace</figcaption>
 	</div>
 </div>
@@ -221,15 +221,15 @@ The Pope stays in a palace on the right of the basilica (when facing the basilic
 
 <div class="row">
 	<div class="12u 12u$(mobile) item">
-		<img src="{{'assets/images/blog/italy_trip/day2/basilica_outside.jpg' | relative_url }}" class="blog-image featured">
+		<img data-src="{{'assets/images/blog/italy_trip/day2/basilica_outside.jpg' | relative_url }}" class="blog-image featured">
 		<figcaption>Outside the Basilica</figcaption>
 	</div>
 	<div class="12u 12u$(mobile) item">
-		<img src="{{'assets/images/blog/italy_trip/day2/outside_basilica2.jpg' | relative_url }}" class="blog-image featured">
+		<img data-src="{{'assets/images/blog/italy_trip/day2/outside_basilica2.jpg' | relative_url }}" class="blog-image featured">
 		<figcaption>From the other side</figcaption>
 	</div>
 	<div class="12u 12u$(mobile) item">
-		<img src="{{'assets/images/blog/italy_trip/day2/peters_square.jpg' | relative_url }}" class="blog-image featured">
+		<img data-src="{{'assets/images/blog/italy_trip/day2/peters_square.jpg' | relative_url }}" class="blog-image featured">
 		<figcaption>Peter's Square</figcaption>
 	</div>
 
@@ -240,7 +240,7 @@ The Pope stays in a palace on the right of the basilica (when facing the basilic
 <!-- TODO: change to photosphere -->
 <div class="photosphere">
 	<div class="item">
-		<img src="{{ 'assets/images/blog/italy_trip/day2/photospheres/square_photosphere.jpg' | relative_url }}" class="blog-image featured">
+		<img data-src="{{ 'assets/images/blog/italy_trip/day2/photospheres/square_photosphere.jpg' | relative_url }}" class="blog-image featured">
 		<figcaption>Basilica Photosphere</figcaption>
 	</div>
 </div>
@@ -248,16 +248,16 @@ The Pope stays in a palace on the right of the basilica (when facing the basilic
 <div class="personal">
     <div class="row">
         <div class="6u 12u$(mobile) item">
-            <img src="{{'assets/images/blog/italy_trip/day2/appa_police.jpg' | relative_url }}" class="blog-image">
+            <img data-src="{{'assets/images/blog/italy_trip/day2/appa_police.jpg' | relative_url }}" class="blog-image">
             <figcaption>Did he get caught???</figcaption>
             <span class="figdesc">Nah, he wanted to ask difference between <a href="https://www.wikiwand.com/en/Carabinieri">Carabinieri</a> and <a href="https://www.wikiwand.com/en/Polizia_di_Stato">Polizia</a></span>
         </div>
         <div class="6u 12u$(mobile)">
             <div class="item">
-                <img src="{{ 'assets/images/blog/italy_trip/day2/fam_in_square.jpg' | relative_url }}" class="blog-image">
+                <img data-src="{{ 'assets/images/blog/italy_trip/day2/fam_in_square.jpg' | relative_url }}" class="blog-image">
             </div>
             <div class="item">
-                <img src="{{'assets/images/blog/italy_trip/day2/amma_pillars.jpg' | relative_url }}" class="blog-image">
+                <img data-src="{{'assets/images/blog/italy_trip/day2/amma_pillars.jpg' | relative_url }}" class="blog-image">
             </div>
         </div>
     </div>
@@ -266,7 +266,7 @@ The Pope stays in a palace on the right of the basilica (when facing the basilic
 ---
 
 <div class="item right">
-    <img src="{{ 'assets/images/blog/italy_trip/day2/sant_angelo.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{ 'assets/images/blog/italy_trip/day2/sant_angelo.jpg' | relative_url }}" class="blog-image">
     <figcaption>Castel Sant'Angelo</figcaption>
 </div>
 
@@ -278,11 +278,11 @@ We walked down to the river side to see it was just as dirty from above as it wa
 
 <div class="row">
     <div class="6u 12u$(mobile) item">
-		<img src="{{'assets/images/blog/italy_trip/day2/sc.jpg' | relative_url }}" class="blog-image featured">
+		<img data-src="{{'assets/images/blog/italy_trip/day2/sc.jpg' | relative_url }}" class="blog-image featured">
 		<figcaption>Supreme Court</figcaption>
 	</div>
 	<div class="6u 12u$(mobile) item">
-		<img src="{{'assets/images/blog/italy_trip/day2/tiber_basilica.jpg' | relative_url }}" class="blog-image featured">
+		<img data-src="{{'assets/images/blog/italy_trip/day2/tiber_basilica.jpg' | relative_url }}" class="blog-image featured">
 		<figcaption>View of the Basilica over the Tiber</figcaption>
 	</div>
 </div>
@@ -300,7 +300,7 @@ Anyway, the system is that you buy the bus tickets and then get them authenticat
 The [Circus Massimo](https://www.wikiwand.com/en/Circus_Maximus) ended up being quite disappointing. It was just an empty sand field with a nice backdrop of the Roman Forum. There was a nice botanical garden next to the field which my mom wanted to go see. We went to see the Baths of Caracello but they were closed by the time we went there :(, and there wasn't much to see outside of them.
 
 <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day2/italian_trees.jpg' | relative_url }}" class="blog-image featured">
+    <img data-src="{{'assets/images/blog/italy_trip/day2/italian_trees.jpg' | relative_url }}" class="blog-image featured">
     <figcaption>Roman Tree</figcaption>
     <span class="figdesc">We saw these types of unique trees throughout our journey through Italy, though saw it the most in Rome.</span>
 </div>
@@ -309,7 +309,7 @@ The [Circus Massimo](https://www.wikiwand.com/en/Circus_Maximus) ended up being 
 ### Dinner
 
 <div class="item right">
-    <img src="{{'assets/images/blog/italy_trip/day2/san_maggiore2.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{'assets/images/blog/italy_trip/day2/san_maggiore2.jpg' | relative_url }}" class="blog-image">
     <figcaption>Basilica Papale di Santa Maria Maggiore At Night</figcaption>
 </div>
 
