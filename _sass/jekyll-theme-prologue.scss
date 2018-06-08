@@ -134,9 +134,7 @@
 
     a {
         text-decoration: none;
-        // color: $highlight-color;
         color: inherit;
-        // border-bottom: dotted 1px rgba(128, 128, 128, 0.8);
         border-bottom: dotted 1px $highlight-color;
         @include vendor('transition', ('color 0.35s ease-in-out', 'border-bottom-color 0.35s ease-in-out'));
         outline: 0;
@@ -688,11 +686,13 @@
 
                 a {
                     color: #fff;
-                    border-color: inherit;
 
                     &:hover {
-                        border-bottom-color: rgba(255, 255, 255, 0);
-                        color: $primary-light-color;
+                        // border-bottom-color: rgba(255, 255, 255, 0);
+                        // border-bottom-color: $primary-light-color;
+                        // color: $primary-light-color;
+                        border-bottom-color: $highlight-color;
+                        color: $highlight-color;
                     }
                 }
             }
@@ -1121,3 +1121,19 @@
             }
 
     }
+
+
+.markdown-body a {
+    text-decoration: none;
+    color: $background-color;
+    font-weight: bolder;
+    border-bottom: dotted 2px $highlight-color;
+    @include vendor('transition', ('color 0.35s ease-in-out', 'border-bottom-color 0.35s ease-in-out'));
+    outline: 0;
+
+    &:hover {
+        color: $highlight-color;
+        // border-bottom-color: $background-color;
+        border-bottom-color: $highlight-color;
+    }
+}

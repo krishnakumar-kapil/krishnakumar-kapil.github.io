@@ -1,3 +1,5 @@
+@import 'colors';
+
 .pagination {
     display: block;
     margin: 1em auto 1em auto;
@@ -11,8 +13,8 @@
 }
 
 .pagination a.active {
-    background-color: #222629;
-    color: #E27689;
+    background-color: $background-color;
+    color: $highlight-color;
     border-radius: 5px;
 }
 
