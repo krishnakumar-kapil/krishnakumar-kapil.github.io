@@ -1,6 +1,6 @@
 --- 
 title: Projects 
-icon: fa-nb 
+icon: fa-th 
 layout: page 
 order: 4 
 ---

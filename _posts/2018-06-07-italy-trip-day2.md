@@ -4,8 +4,6 @@ layout: post
 hide: false
 ---
 
-# Day 2
-
 We had started off the day at Hotel Centro. While my parents wake up really early (6:00 am) on holidays, this day was special where we all slept in till 9 am. After that just getting ready and having breakfast brought us to 11 am. The breakfast in Italy generally was a boatload of sweet items like croissants and baked goods with some untoasted bread. We were lucky that every hotel had cereal, fruits and thankfully yoghurt :O.
 
 <div class="item right">

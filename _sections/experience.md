@@ -1,6 +1,6 @@
 ---
 title: Experience
-icon: fa-th
+icon: fa-graduation-cap
 layout: post
 order: 2
 ---
