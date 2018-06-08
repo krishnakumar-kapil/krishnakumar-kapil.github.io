@@ -8,7 +8,7 @@ hide: false
 ## Day 0 (May 21, 2018)
 
 <div class="item right">
-    <img src="{{ 'assets/images/blog/italy_trip/day1/manhattan_view.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{ 'assets/images/blog/italy_trip/day1/manhattan_view.jpg' | relative_url }}" class="blog-image">
     <figcaption>Manhattan</figcaption>
 </div>
 
@@ -45,7 +45,7 @@ We arrived at our hotel around 11 am and were greeted by an extremely stern-face
 <div class="row">
 <div class="4u 12u$(mobile)">
   <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day1/sapori_pizza.jpg' | relative_url }}" class="blog-image" alt="Sapori e Delizie Pizza">
+    <img data-src="{{'assets/images/blog/italy_trip/day1/sapori_pizza.jpg' | relative_url }}" class="blog-image" alt="Sapori e Delizie Pizza">
     <figcaption>
       Sapori e Delizie Pizza
     </figcaption>
@@ -54,7 +54,7 @@ We arrived at our hotel around 11 am and were greeted by an extremely stern-face
 
 <div class="4u 12u$(mobile)">
   <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day1/gelato1.jpg' | relative_url }}" class="blog-image" alt="Gelato With the Family">
+    <img data-src="{{'assets/images/blog/italy_trip/day1/gelato1.jpg' | relative_url }}" class="blog-image" alt="Gelato With the Family">
     <figcaption>
       Gelato
     </figcaption>
@@ -63,7 +63,7 @@ We arrived at our hotel around 11 am and were greeted by an extremely stern-face
 
 <div class="4u 12u$(mobile)">
   <div class="item personal">
-    <img src="{{'assets/images/blog/italy_trip/day1/gelato2.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{'assets/images/blog/italy_trip/day1/gelato2.jpg' | relative_url }}" class="blog-image">
     <figcaption>Gelato with the Family</figcaption>
   </div>
 </div>
@@ -81,7 +81,7 @@ As a foodie family, with 2 members stating that they have sweet teeth (I don't t
 ### Colosseum
 
 <div class="item left">
-    <img src="{{'assets/images/blog/italy_trip/day1/arch_of_constantine.jpg' | relative_url }}" class="blog-image">
+    <img data-src="{{'assets/images/blog/italy_trip/day1/arch_of_constantine.jpg' | relative_url }}" class="blog-image">
     <figcaption>Arch of Constantine</figcaption>
 </div>
 
@@ -92,19 +92,19 @@ The Colosseum was built to be a combat arena between not only gladiators but wit
 
 <div class="row">
     <div class="4u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/colosseum1.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/colosseum1.jpg' | relative_url }}" class="blog-image">
     </div>
     <div class="4u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/colosseum2.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/colosseum2.jpg' | relative_url }}" class="blog-image">
     </div>
     <div class="4u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/colosseum4.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/colosseum4.jpg' | relative_url }}" class="blog-image">
         <figcaption>Destruction of the Colosseum</figcaption>
     </div>
 </div>
 
 <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day1/colosseum3.jpg' | relative_url }}" class="blog-image featured">
+    <img data-src="{{'assets/images/blog/italy_trip/day1/colosseum3.jpg' | relative_url }}" class="blog-image featured">
 </div>
 
 The Colosseum base used to be filled with sand and the underground passages were used to store the various contraptions used for traps, storing animals, creating passageways, etc. I read about some of this in Mark of Athena that was based in Rome. The Colosseum has lost its outer layer due to a number of earthquakes that have destroyed a large part of the Roman Forum.
@@ -115,28 +115,28 @@ The Colosseum base used to be filled with sand and the underground passages were
 
 <div class="row">
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/first_roman_road.jpg' | relative_url }}" class="blog-image height-limit">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/first_roman_road.jpg' | relative_url }}" class="blog-image height-limit">
     </div>
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/roman_road_zero.jpg' | relative_url }}" class="blog-image height-limit">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/roman_road_zero.jpg' | relative_url }}" class="blog-image height-limit">
     </div>
 </div>
 **Roman Roads:** The saying "All roads lead to Rome" is a phrase that is thrown about a lot. We got a chance to see some of the most popular roads like the First Roman Road and the 5 km straight road in Pompeii. These roads were traveled on the common Roman chariot, though how they survived with their wooden wheels is a mystery to me. If our current cars can't survive potholes with the extensive improvements in tires and suspension, I truly wonder how bad the rides must have been for the old Romans. 
 
 <div class="row">
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/archway1.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/archway1.jpg' | relative_url }}" class="blog-image">
         <figcaption>Archway</figcaption>
     </div>
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/archway2.jpg' | relative_url }}" class="blog-image height-limit">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/archway2.jpg' | relative_url }}" class="blog-image height-limit">
     </div>
 </div>
 
 The Italian's and Roman's talent for sculpture on stone might be unparalleled, but they seem to have had a problem with keeping heads on their structures. In the 4 cities we visited, a number of them had heads removed off of them. When we asked locals, they said that it could be burglary to get busts of these figures. 
 
 <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day1/roman_forum_overview.jpg' | relative_url }}" class="blog-image featured">
+    <img data-src="{{'assets/images/blog/italy_trip/day1/roman_forum_overview.jpg' | relative_url }}" class="blog-image featured">
     <figcaption>
     Roman Forum from Palatine Hill</figcaption>
     <div class="figdesc">
@@ -145,21 +145,21 @@ The Italian's and Roman's talent for sculpture on stone might be unparalleled, b
 </div>
 
 <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day1/building_pillars.jpg' | relative_url }}" class="blog-image featured">
+    <img data-src="{{'assets/images/blog/italy_trip/day1/building_pillars.jpg' | relative_url }}" class="blog-image featured">
     <figcaption>First view of the pillars seen throughout Greece and Rome.</figcaption>
 </div>
 
 <div class="row">
     <div class="4u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/caesar_death.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/caesar_death.jpg' | relative_url }}" class="blog-image">
         <figcaption>Caesar Cremation Spot</figcaption>
     </div>
     <div class="4u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/roman_senate.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/roman_senate.jpg' | relative_url }}" class="blog-image">
         <figcaption>Roman Senate</figcaption>
     </div>
     <div class="4u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/hail_caesar.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/hail_caesar.jpg' | relative_url }}" class="blog-image">
         <figcaption>Caesar Statue</figcaption>
     </div>
 </div>
@@ -167,7 +167,7 @@ We got a chance to view the spot where supposedly Julius Caesar was burned after
 
 <div class="row">
     <div class="12u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/street_artist.jpg' | relative_url }}" class="blog-image height-limit">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/street_artist.jpg' | relative_url }}" class="blog-image height-limit">
         <figcaption>Street Artist standing still</figcaption>
     </div>
 </div>
@@ -176,11 +176,11 @@ We got a chance to view the spot where supposedly Julius Caesar was burned after
 ### Start of the Piazzas
 <div class="row">
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland1.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland1.jpg' | relative_url }}" class="blog-image">
         <figcaption>Altare della Patria</figcaption>
     </div>
     <div class="12u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland2.jpg' | relative_url }}" class="blog-image featured">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/altar_of_fatherland2.jpg' | relative_url }}" class="blog-image featured">
     </div>
 </div>
 
@@ -190,18 +190,18 @@ After Piazza Venetia, we started walking to the Pantheon whilst getting a chance
 
 <div class="personal">
     <div class="item">
-        <img src="{{'assets/images/blog/italy_trip/day1/parents_piazza_venetia.jpg' | relative_url }}" class="blog-image featured">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/parents_piazza_venetia.jpg' | relative_url }}" class="blog-image featured">
     </div>
 
     <div class="row">
         <div class="4u 12u$(mobile) item">
-            <img src="{{'assets/images/blog/italy_trip/day1/kk_solo1.jpg' | relative_url }}" class="blog-image">
+            <img data-src="{{'assets/images/blog/italy_trip/day1/kk_solo1.jpg' | relative_url }}" class="blog-image">
         </div>
         <div class="4u 12u$(mobile) item">
-            <img src="{{'assets/images/blog/italy_trip/day1/kapil_solo1.jpg' | relative_url }}" class="blog-image">
+            <img data-src="{{'assets/images/blog/italy_trip/day1/kapil_solo1.jpg' | relative_url }}" class="blog-image">
         </div>
         <div class="4u 12u$(mobile) item">
-            <img src="{{'assets/images/blog/italy_trip/day1/kala_solo1.jpg' | relative_url }}" class="blog-image">
+            <img data-src="{{'assets/images/blog/italy_trip/day1/kala_solo1.jpg' | relative_url }}" class="blog-image">
         </div>
     </div>
 </div>
@@ -210,7 +210,7 @@ After Piazza Venetia, we started walking to the Pantheon whilst getting a chance
 
 ### Pantheon
 <div class="item">
-    <img src="{{'assets/images/blog/italy_trip/day1/pantheon.jpg' | relative_url }}" class="blog-image featured">
+    <img data-src="{{'assets/images/blog/italy_trip/day1/pantheon.jpg' | relative_url }}" class="blog-image featured">
     <figcaption>The Roma Pantheon</figcaption>
 </div>
 <div class="photosphere">
@@ -228,14 +228,14 @@ Outside the Pantheon, there was a violinist playing famous pop songs like Ed She
 ### Piazza Navona
 
 <div class="item right">
-<img src="{{'assets/images/blog/italy_trip/day1/piazza_navona_woman.jpg' | relative_url }}" class="blog-image height-limit">
+<img data-src="{{'assets/images/blog/italy_trip/day1/piazza_navona_woman.jpg' | relative_url }}" class="blog-image height-limit">
 </div>
 We then left for Piazza Navona, home of [Sant'Agnes in Agone](https://www.google.com/maps/place/Sant'Agnese+in+Agone/@41.8987146,12.4728067,18z/data=!4m12!1m6!3m5!1s0x132f604f678640a9:0xcad165fa2036ce2c!2sPantheon!8m2!3d41.8986108!4d12.4768729!3m4!1s0x0:0x896b94c3332ab951!8m2!3d41.898844!4d12.4725519) and 3 beautiful fountains. With residential buildings surrounding the Piazza with live music being performed, it was a relaxing spot to rest our tired legs and bodies. A standard feature of the Italian home are these wooden shuttered windows that are able to fold in different places to provide more air and light. It also seemed like they could change the direction of the slats from inside. After experiencing poor blinds in Austin and extreme sunlight in the mornings, this system would've been so so nice to have. 
 
 <!-- TODO: add the photo from naples with this -->
 <div class="personal">
     <div class="item">
-        <img src="{{'assets/images/blog/italy_trip/day1/piazza_navona_fountain_family.jpg' | relative_url }}" class="blog-image featured">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/piazza_navona_fountain_family.jpg' | relative_url }}" class="blog-image featured">
     </div>
 </div>
 
@@ -250,18 +250,18 @@ src="https://momento360.com/e/u/88606db32472445491f1165f57b3dc78?utm_campaign=em
 
 <div class="row">
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/obelisk.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/obelisk.jpg' | relative_url }}" class="blog-image">
         <figcaption>Obelisk</figcaption>
         <div class="figdesc">
         Rome also had a large amount of Egyptian obelisks present that I, as of now, have not found the reason for.
         </div>
     </div>
     <div class="6u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/government_office.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/government_office.jpg' | relative_url }}" class="blog-image">
         <figcaption>Government Office (Montecitori Palace)</figcaption>
     </div>
     <div class="12u 12u$(mobile) item">
-        <img src="{{'assets/images/blog/italy_trip/day1/navona_fountain.jpg' | relative_url }}" class="blog-image">
+        <img data-src="{{'assets/images/blog/italy_trip/day1/navona_fountain.jpg' | relative_url }}" class="blog-image">
         <figcaption>The other fountain in Piazza Navona</figcaption>
     </div>
 
@@ -272,7 +272,7 @@ src="https://momento360.com/e/u/88606db32472445491f1165f57b3dc78?utm_campaign=em
 ### Trevi Fountain
 
 <div class="item">
-<img src="{{'assets/images/blog/italy_trip/day1/trevi_fountain.jpg' | relative_url }}" class="blog-image featured">
+<img data-src="{{'assets/images/blog/italy_trip/day1/trevi_fountain.jpg' | relative_url }}" class="blog-image featured">
 </div>
 
 We then walked to the [Trevi Fountain](https://www.google.com/maps/place/Trevi+Fountain/@41.901609,12.4816779,16.9z/data=!4m5!3m4!1s0x132f6053278340d5:0xf676f1e1cc02bbb6!8m2!3d41.9009325!4d12.4833132), that while impressive wasn't as spectacular as expected. It may have been because of the sheer crowd of people around us or the fact that we were tired, but we were more interested in getting food than spending time there haha.

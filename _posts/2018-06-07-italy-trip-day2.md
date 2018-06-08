@@ -26,7 +26,7 @@ We started our tourism for the day by going to see [Basilica Papale di Santa Mar
 </div>
 
 
-The [Spanish Steps](https://www.wikiwand.com/en/Spanish_Steps) are an extremely popular site for tourists to go to. They are extremely crowded and are basically impossible to get a clean shot of in daytime. While my mom was raving about having to see the steps during the last 2 days, it turned out quite the disappointment from the bottom. The steps were just ordinary marble without decoration. I think I was more impressed by the [Grandview Park in SF](https://www.google.com/maps/place/Grandview+Park/@37.7564084,-122.4739283,17z/data=!3m1!4b1!4m5!3m4!1s0x808587602e7a2d15:0x6957dbab1942eef7!8m2!3d37.7564084!4d-122.4717396). The grouping of the steps were in 12 pairs. With only 135 steps, this wasn't even close to some of the other structures we visited in Italy.
+The [Spanish Steps](https://www.wikiwand.com/en/Spanish_Steps) are an extremely popular site for tourists to go to. They are extremely crowded and are basically impossible to get a clean shot of in daytime. While my mom was raving about having to see the steps during the last 2 days, it turned out quite the disappointment from the bottom. The steps were just ordinary marble without decoration. I think I was more impressed by the [Grandview Park in SF](https://www.google.com/maps/place/Grandview+Park/@37.7564084,-122.4739283,17z/data=!3m1!4b1!4m5!3m4!1s0x808587602e7a2d15:0x6957dbab1942eef7!8m2!3d37.7564084!4d-122.4717396). The grouping of the steps were in sets of 12. With only 135 steps, this wasn't even close to some of the other structures we visited in Italy.
 
 However, we did get our first view over the whole of Rome at the top of the Spanish Steps. At the top, there is a church where we couldn't take pictures unfortunately. As usual, Appa was 'soaking' in the paintings inside while Amma and I were getting restless to see other places before we had to leave for our Vatican tour.
 
@@ -307,6 +307,12 @@ The [Circus Massimo](https://www.wikiwand.com/en/Circus_Maximus) ended up being 
 
 ---
 ### Dinner
+
+<div class="item right">
+    <img src="{{'assets/images/blog/italy_trip/day2/san_maggiore2.jpg' | relative_url }}" class="blog-image">
+    <figcaption>Basilica Papale di Santa Maria Maggiore At Night</figcaption>
+</div>
+
 
 We had our dinner at [Trettoria Cecio](https://www.google.com/maps/place/Trattoria+Cecio/@41.8983958,12.4990176,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a37e0230b7:0x95d46bed75a733b3!8m2!3d41.8983958!4d12.501206://www.google.com/maps/place/Trattoria+Cecio/@41.8983958,12.4990176,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a37e0230b7:0x95d46bed75a733b3!8m2!3d41.8983958!4d12.5012063) where we had some pasta again after a long wait to sit with people smoking next to us. It was some really good food, but I think after the amount we had walked that day anything would have been good. A note to all travellers to Italy, if you want to go to some of the better restaurants do not expect to be seated if you don't have a reservation. These reservations had to be atleast a day in advance for dinner. It happened so many times where I'd find a nice restaurant, call them only to find out that they wouldn't take us for that day. Since our timing tended to be variable, it wasn't possible for us to eat at some of the highest rated places during our trip. However, I do think we found some incredible places.
 
