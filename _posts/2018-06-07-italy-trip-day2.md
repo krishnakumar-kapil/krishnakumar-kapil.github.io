@@ -4,6 +4,10 @@ layout: post
 hide: false
 ---
 
+<div class="tripblan">
+<iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=2&color=2196f3&markercolor=2196f3" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
+</div>
+
 We had started off the day at Hotel Centro. While my parents wake up really early (6:00 am) on holidays, this day was special where we all slept in till 9 am. After that just getting ready and having breakfast brought us to 11 am. The breakfast in Italy generally was a boatload of sweet items like croissants and baked goods with some untoasted bread. We were lucky that every hotel had cereal, fruits and thankfully yoghurt :O.
 
 <div class="item right">
@@ -307,4 +311,8 @@ The [Circus Massimo](https://www.wikiwand.com/en/Circus_Maximus) ended up being 
 We had our dinner at [Trettoria Cecio](https://www.google.com/maps/place/Trattoria+Cecio/@41.8983958,12.4990176,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a37e0230b7:0x95d46bed75a733b3!8m2!3d41.8983958!4d12.501206://www.google.com/maps/place/Trattoria+Cecio/@41.8983958,12.4990176,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a37e0230b7:0x95d46bed75a733b3!8m2!3d41.8983958!4d12.5012063) where we had some pasta again after a long wait to sit with people smoking next to us. It was some really good food, but I think after the amount we had walked that day anything would have been good. A note to all travellers to Italy, if you want to go to some of the better restaurants do not expect to be seated if you don't have a reservation. These reservations had to be atleast a day in advance for dinner. It happened so many times where I'd find a nice restaurant, call them only to find out that they wouldn't take us for that day. Since our timing tended to be variable, it wasn't possible for us to eat at some of the highest rated places during our trip. However, I do think we found some incredible places.
 
 After dinner, my parents their dose of daily gelato and we all headed back to another day of questionable wifi at Hotel Centro.
+
+<div class="tripblan">
+<iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=2&color=2196f3&markercolor=2196f3" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
+</div>
 
