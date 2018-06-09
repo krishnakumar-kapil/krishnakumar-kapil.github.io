@@ -66,11 +66,11 @@ As the navigator throughout the trip, I started guiding the family towards the B
 
 
 <div class="row">
-    <div class="6u 12u$(mobile) item">
+    <div class="5u 12u$(mobile) item">
         <img data-src="{{'assets/images/blog/italy_trip/day2/borghese_tree_pond.jpg' | relative_url }}" class="blog-image">
 		<span class="figdesc">Notice the difference between the trees to the left and center</span>
     </div>
-    <div class="6u 12u$(mobile) item">
+    <div class="7u 12u$(mobile) item">
         <img data-src="{{'assets/images/blog/italy_trip/day2/appa_jumping_gateway.jpg' | relative_url }}" class="blog-image height-limit">
 		<figcaption>Another Archway</figcaption>
     </div>
@@ -114,11 +114,11 @@ We started the tour by heading to the Vatican Museum that had a huge line outsid
 
 Our tour guide initially brought us to a foyer with this pine-cone structure and the metallic earth structure. The museum was one long corridor that culminated in the Sistine Chapel. Along the corridor, most of the ceilings were painted in a fashion to give a 3-d look to the paintings that was extremely realistic. I ended up looking at each ceiling that looked 3-d in the future to check if it was actually sculpted or painted. 
 <div class="row">
-    <div class="6u 12u$(mobile) item">
+    <div class="7u 12u$(mobile) item">
         <img data-src="{{'assets/images/blog/italy_trip/day2/3d_ceiling.jpg' | relative_url }}" class="blog-image">
         <figcaption>3D Looking 2D Painting</figcaption>
     </div>
-    <div class="6u 12u$(mobile) item">
+    <div class="5u 12u$(mobile) item">
         <img data-src="{{'assets/images/blog/italy_trip/day2/museum_flooring.jpg' | relative_url }}" class="blog-image">
         <figcaption>Museum Flooring</figcaption>
     </div>
@@ -135,25 +135,31 @@ Our tour guide initially brought us to a foyer with this pine-cone structure and
 My favorite room has to be the map room. Along the walls, incredibly detailed topography maps of the parts of Italy were hand painted. The ceiling was an amalgamation of beautiful paintings with the framing all done in gold to give an opulent and indulgent feel to the room
 
 <div class="row">
+    <div class="3u 12u$(mobile) item">
+    </div>
     <div class="6u 12u$(mobile) item">
         <img data-src="{{'assets/images/blog/italy_trip/day2/map.jpg' | relative_url }}" class="blog-image">
         <figcaption>One of the maps portraying a subsection of italy</figcaption>
     </div>
-    <div class="6u 12u$(mobile) item">
-        <img data-src="{{'assets/images/blog/italy_trip/day2/map_room_ceiling.jpg' | relative_url }}" class="blog-image">
+    <div class="3u 12u$(mobile) item">
+    </div>
+    <div class="12u 12u$(mobile) item">
+        <img data-src="{{'assets/images/blog/italy_trip/day2/map_room_ceiling.jpg' | relative_url }}" class="blog-image featured">
         <figcaption>Ceiling of the map room</figcaption>
     </div>
 </div>
 
 Our trip got slightly delayed because a couple, who funnily thought Appa was a television anchor from Minnesota, got separated during the mad chaos of the crowd. The group has to follow the tour guide's flag that they carry in their hands. 
 <div class="personal">
-    However, our tour guide didn't hold it high enough haha and Amma suggested holding it higher upon which the tour guide happily handed it to Appa to hold. I got roped in when the tour guide had to go get the official tickets for the Vatican. Unfortunately, we were unpaid in our meaningful contributions.
     <div class="row">
-        <div class="6u 12u$(mobile) item">
+        <div class="4u 12u$(mobile) item">
             <img data-src="{{'assets/images/blog/italy_trip/day2/kapil_holding_flag.jpg' | relative_url }}" class="blog-image height-limit">
         </div>
-        <div class="6u 12u$(mobile) item">
+        <div class="4u 12u$(mobile) item">
             <img data-src="{{'assets/images/blog/italy_trip/day2/dad_holding_flag.jpg' | relative_url }}" class="blog-image height-limit">
+        </div>
+        <div class="4u 12u$(mobile) ">
+            However, our tour guide didn't hold it high enough haha and Amma suggested holding it higher upon which the tour guide happily handed it to Appa to hold. I got roped in when the tour guide had to go get the official tickets for the Vatican. Unfortunately, we were unpaid in our meaningful contributions.
         </div>
     </div>
 </div>
@@ -218,10 +224,10 @@ The main dome of the Basilica was designed by Michelangelo. The altar is a refer
 	</div>
 	<div class="6u 12u$(mobile) item">
 		<img data-src="{{'assets/images/blog/italy_trip/day2/pope_palace.jpg' | relative_url }}" class="blog-image">
-		<figcaption>Pope Palace</figcaption>
+		<figcaption class="margin-bottom">Pope Palace</figcaption>
+        <p>The Pope stays in a palace on the right of the basilica (when facing the basilica), where he is protected by the <a href="https://www.wikiwand.com/en/Pontifical_Swiss_Guard">Pontifical Swiss Guard</a>. The Pope makes appearances on Wednesday and Sunday in the morning. We weren't particularly interested in seeing the Pope and so by chance we managed to pick a day that should have attracted lesser crowd in the evening since most people would have gone in the morning to see the Pope.</p>
 	</div>
 </div>
-The Pope stays in a palace on the right of the basilica (when facing the basilica), where he is protected by the [Pontifical Swiss Guard](https://www.wikiwand.com/en/Pontifical_Swiss_Guard). The Pope makes appearances on Wednesday and Sunday in the morning. We weren't particularly interested in seeing the Pope and so by chance we managed to pick a day that should have attracted lesser crowd in the evening since most people would have gone in the morning to see the Pope.
 
 <div class="row">
 	<div class="12u 12u$(mobile) item">
@@ -314,7 +320,7 @@ The [Circus Massimo](https://www.wikiwand.com/en/Circus_Maximus) ended up being 
 
 <div class="item right">
     <img data-src="{{'assets/images/blog/italy_trip/day2/san_maggiore2.jpg' | relative_url }}" class="blog-image">
-    <figcaption>Basilica Papale di Santa Maria Maggiore At Night</figcaption>
+    <figcaption class="margin-bottom">Basilica Papale di Santa Maria Maggiore At Night</figcaption>
 </div>
 
 
