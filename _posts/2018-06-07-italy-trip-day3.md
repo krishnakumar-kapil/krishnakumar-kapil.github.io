@@ -4,6 +4,10 @@ layout: post
 hide: false
 ---
 
+**Summary**: Arrival in Naples, Garibaldi Station, Duomo di Napoli, Church of Gesu Nuovo, Toledo Station, Galleria Umberto, Piazza del Plebiscito, Castel dell'Ovo, Castel Nuovo
+
+---
+
 We start off day 3 with the classic early morning start, since we must catch our train from [Roma Termini](https://www.google.com/maps/place/Roma+Termini/@41.9010032,12.499715,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a439c0ffef:0xa4307dbef261a994!8m2!3d41.9010032!4d12.5019037) at 9:00 am. Though we were only 10 minutes away from the station, with 3 large suitcases and a bag whose wheels didn't work -.- we had to take a taxi to the station. As usual, we had to pay a surcharge for our bags. Italy also has a city tax rule where hotels can basically charge you up to 4 euros per person per night for staying. Annoyingly, this charge is always collected in person at the hotel, which means you still end up paying out of cash or card regardless of your prior bookings.
 
 

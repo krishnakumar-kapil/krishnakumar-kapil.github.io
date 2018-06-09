@@ -4,6 +4,9 @@ layout: post
 hide: false
 ---
 
+**Summary**: Arrival in Rome, Colosseum, Pantheon, Piazza Navona, Trevi Fountain 
+
+---
 
 ## Day 0 (May 21, 2018)
 
