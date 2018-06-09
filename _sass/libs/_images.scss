@@ -35,6 +35,11 @@ img.blog-image {
     }
 
 }
+.margin-bottom {
+    display: block;
+    margin: 0 0 1em 0;
+}
+
 
 .tripblan {
     display: block;
@@ -68,7 +73,6 @@ img.blog-image {
         color: #666;
         text-align: center;
         background: #fff;
-        margin: 0;
         padding: 0.2em;
         font-size: 0.9em;
         font-weight: 300;
