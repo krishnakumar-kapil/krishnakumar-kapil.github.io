@@ -17,11 +17,21 @@ img.blog-image {
         margin:auto;
     }
 
-     &.featured {
+    &.featured {
         display: block;
         max-height: 600px;
         max-width: 100%;
         margin: auto;
+    }
+
+    &.margin-top {
+        display: block;
+        margin: 1em 0 0 0;
+    }
+
+    &.margin-bottom {
+        display: block;
+        margin: 0 0 1em 0;
     }
 
 }
@@ -48,6 +58,11 @@ img.blog-image {
         font-size: 1em;
         font-weight: 500;
         display: inherit;
+        &.margin-bottom {
+            display: block;
+            margin: 0 0 1em 0;
+        }
+
     }
     .figdesc {
         color: #666;
@@ -58,7 +73,6 @@ img.blog-image {
         font-size: 0.9em;
         font-weight: 300;
         display: inherit;
-
     }
 
     &.left {
