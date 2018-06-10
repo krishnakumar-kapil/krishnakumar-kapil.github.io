@@ -12,7 +12,7 @@ hide: false
 <iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=2&color=2196f3&markercolor=2196f3" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
 </div>
 
-We had started off the day at Hotel Centro. While my parents wake up really early (6:00 am) on holidays, this day was special where we all slept in till 9 am. After that just getting ready and having breakfast brought us to 11 am. The breakfast in Italy generally was a boatload of sweet items like croissants and baked goods with some untoasted bread. We were lucky that every hotel had cereal, fruits and thankfully yoghurt :O.
+We had started off the day at Hotel Centro. While my parents wake up really early (6:00 am) on holidays, this day was special where we all slept in till 9 am. After that just getting ready and having breakfast brought us to 11 am. The breakfast in Italy generally was a boatload of sweet items like croissants and baked goods with some untoasted bread. We were lucky that every hotel had cereal, fruits and thankfully yogurt :O.
 
 <div class="item right">
     <img data-src="{{'assets/images/blog/italy_trip/day2/san_maggiore1.jpg' | relative_url }}" class="blog-image">
@@ -30,9 +30,9 @@ We started our tourism for the day by going to see [Basilica Papale di Santa Mar
 </div>
 
 
-The [Spanish Steps](https://www.wikiwand.com/en/Spanish_Steps) are an extremely popular site for tourists to go to. They are extremely crowded and are basically impossible to get a clean shot of in daytime. While my mom was raving about having to see the steps during the last 2 days, it turned out quite the disappointment from the bottom. The steps were just ordinary marble without decoration. I think I was more impressed by the [Grandview Park in SF](https://www.google.com/maps/place/Grandview+Park/@37.7564084,-122.4739283,17z/data=!3m1!4b1!4m5!3m4!1s0x808587602e7a2d15:0x6957dbab1942eef7!8m2!3d37.7564084!4d-122.4717396). The grouping of the steps were in sets of 12. With only 135 steps, this wasn't even close to some of the other structures we visited in Italy.
+The [Spanish Steps](https://www.wikiwand.com/en/Spanish_Steps) are an extremely popular site for tourists to go to. They are extremely crowded and are basically impossible to get a clean shot off in daytime. While my mom was raving about having to see the steps during the last 2 days, it turned out quite the disappointment from the bottom. The steps were just ordinary marble without decoration. I think I was more impressed by the [Grandview Park in SF](https://www.google.com/maps/place/Grandview+Park/@37.7564084,-122.4739283,17z/data=!3m1!4b1!4m5!3m4!1s0x808587602e7a2d15:0x6957dbab1942eef7!8m2!3d37.7564084!4d-122.4717396). The grouping of the steps was in sets of 12. With only 135 steps, this wasn't even close to some of the other structures we visited in Italy.
 
-However, we did get our first view over the whole of Rome at the top of the Spanish Steps. At the top, there is a church where we couldn't take pictures unfortunately. As usual, Appa was 'soaking' in the paintings inside while Amma and I were getting restless to see other places before we had to leave for our Vatican tour.
+However, we did get our first view over the whole of Rome at the top of the Spanish Steps. At the top, there is a church where we couldn't take pictures, unfortunately. As usual, Appa was 'soaking' in the paintings inside while Amma and I were getting restless to see other places before we had to leave for our Vatican tour.
 
 
 ---
@@ -53,7 +53,7 @@ However, we did get our first view over the whole of Rome at the top of the Span
 </div>
 
 
-As the navigator throughout the trip, I started guiding the family towards the Borghese gardens. On the way, we got to see even better Vista Points of Rome. The gardens themselves were lush with greenery. Instead of the trimmed top heavy trees seen throughout Italy, the gardens had trees that we were more familiar with. 
+As the navigator throughout the trip, I started guiding the family towards the Borghese gardens. On the way, we got to see even better Vista Points of Rome. The gardens themselves were lush with greenery. Instead of the trimmed top-heavy trees seen throughout Italy, the gardens had trees that we were more familiar with. 
 
 <div class="item">
     <img data-src="{{'assets/images/blog/italy_trip/day2/borghese_panorama.jpg' | relative_url }}" class="blog-image featured">
@@ -81,7 +81,7 @@ As the navigator throughout the trip, I started guiding the family towards the B
     <img data-src="{{'assets/images/blog/italy_trip/day2/lunch.jpg' | relative_url }}" class="blog-image">
 </div>
 
-After the Borghese Gardens we started heading west towards the Vatican. Along the way we got lunch at a small cafe called [Mondo Arancina](https://www.google.com/maps/place/Mondo+Arancina/@41.9118113,12.4745687,17z/data=!4m16!1m8!3m7!1s0x132f61af5a97eb77:0xeb5107cdce01d746!2sHotel+Centro!5m1!1s2018-06-08!8m2!3d41.9009077!4d12.4949035!3m6!1s0x0:0x48b559442fe000c4!5m1!1s2018-06-08!8m2!3d41.912934!4d12.4755717) that was truly bustling. We managed to get a great deal for a pizza, a fried rice ball, and a dessert called [Cannoli](https://en.wikipedia.org/wiki/Cannoli).
+After the Borghese Gardens, we started heading west towards the Vatican. Along the way, we got lunch at a small cafe called [Mondo Arancina](https://www.google.com/maps/place/Mondo+Arancina/@41.9118113,12.4745687,17z/data=!4m16!1m8!3m7!1s0x132f61af5a97eb77:0xeb5107cdce01d746!2sHotel+Centro!5m1!1s2018-06-08!8m2!3d41.9009077!4d12.4949035!3m6!1s0x0:0x48b559442fe000c4!5m1!1s2018-06-08!8m2!3d41.912934!4d12.4755717) that was truly bustling. We managed to get a great deal for a pizza, a fried rice ball, and a dessert called [Cannoli](https://en.wikipedia.org/wiki/Cannoli).
 
 
 After lunch, we got a chance to visit the [Piazza del Popolo](https://www.wikiwand.com/en/Piazza_del_Popolo). With two churches on either side of the main obelisk in an extremely wide area, it was an incredible 360 view. After the piazza, we crossed the famous [River Tiber](https://www.wikiwand.com/en/Tiber) which is known to be the birthplace of Rome by the twin brothers Romulus and Remus. Our first time on the west side of the Tiber River, we managed to walk on a road just filled with expensive fashion shops. One of the names was extremely funny :P.
@@ -99,7 +99,7 @@ Another source of frustration was the lack of free drinking water in the nation.
 
 ### Vatican Museum
 
-We started the tour by heading to the Vatican Museum that had a huge line outside. Luckily, we had got the Skip-the-line-Tickets that allowed us to go with an official tour guide and as the name suggests: skip the line. With the skip-the-line tickets we also had the advantage of not having to bring our passports for ID verification (dad made the right call to not bring them much to my chagrin).
+We started the tour by heading to the Vatican Museum that had a huge line outside. Luckily, we had got the Skip-the-line-Tickets that allowed us to go with an official tour guide and as the name suggests: skip the line. With the skip-the-line tickets, we also had the advantage of not having to bring our passports for ID verification (dad made the right call to not bring them much to my chagrin).
 
 <div class="row">
     <div class="6u 12u$(mobile) item">
@@ -159,7 +159,7 @@ Our trip got slightly delayed because a couple, who funnily thought Appa was a t
             <img data-src="{{'assets/images/blog/italy_trip/day2/dad_holding_flag.jpg' | relative_url }}" class="blog-image height-limit">
         </div>
         <div class="4u 12u$(mobile) ">
-            However, our tour guide didn't hold it high enough haha and Amma suggested holding it higher upon which the tour guide happily handed it to Appa to hold. I got roped in when the tour guide had to go get the official tickets for the Vatican. Unfortunately, we were unpaid in our meaningful contributions.
+            However, our tour guide didn't hold it high enough (haha) and Amma suggested holding it higher upon which the tour guide happily handed it to Appa to hold. I got roped in when the tour guide had to go get the official tickets for the Vatican. Unfortunately, we were unpaid in our meaningful contributions.
         </div>
     </div>
 </div>
@@ -184,16 +184,16 @@ Unfortunately, it is prohibited to take pictures in the Chapel itself. The Chape
     <figcaption>Basilica Ceiling</figcaption>
 </div>
 
-The longest catholic church in the world. Though you can't tell when you visit, the Basilica is actually in the form of a crucifix. It is a really incredible site with an incredibly long lead-up to the main dome. The main corridor has an arch ceiling with these consistent rectangular patterns that managed to expose the height and size of the Basilica. Unlike other Basilicas that have circular pillars, St. Peter's Basilica has rectangular pillars with engravings of what seemed to be griffins at the top of them. In addition, these pillars are present in the foyer of the basilica. The main corridor of the basilica also has a list of the largest churches in the world on it's floor. Naturally, St. Peter's Basilica is the largest.
+The longest catholic church in the world. Though you can't tell when you visit, the Basilica is actually in the form of a crucifix. It is a really incredible site with an incredibly long lead-up to the main dome. The main corridor has an arched ceiling with these consistent rectangular patterns that managed to expose the height and size of the Basilica. Unlike other Basilicas that have circular pillars, St. Peter's Basilica has rectangular pillars with engravings of what seemed to be griffins at the top of them. In addition, these pillars are present in the foyer of the basilica. The main corridor of the basilica also has a list of the largest churches in the world on its floor. Naturally, St. Peter's Basilica is the largest.
 
 <div class="item left">
     <img data-src="{{ 'assets/images/blog/italy_trip/day2/pieta.jpg' | relative_url }}" class="blog-image">
     <figcaption>Michelangelo's Pieta</figcaption>
 </div>
 
-Even the side corridors are substantially more impressive and decorated than normal. One of them has a Chapel where weddings could be held if and only if you have connections with the Pope or the cardinals. Another famous sculpture present in these halls is Michelangelo's [Pieta]("https://www.wikiwand.com/en/Piet%C3%A0_(Michelangelo)").
+Even the side corridors are substantially more impressive and decorated than normal. One of them has a Chapel where weddings could be held if and only if you have connections with the Pope or the Cardinals. Another famous sculpture present in these halls is Michelangelo's [Pieta]("https://www.wikiwand.com/en/Piet%C3%A0_(Michelangelo)").
 
-The main dome of the Basilica was designed by Michelangelo. The altar is a reference to the confession of faith by St. Peter, that led to his martyrdom. Each of the letters around the dome are 1.4 feet tall that spell out 
+The main dome of the Basilica was designed by Michelangelo. The altar is a reference to the confession of faith by St. Peter, that led to his martyrdom. Each of the letters around the dome is 1.4 feet tall that spell out 
 *TV ES PETRVS ET SVPER HANC PETRAM AEDIFICABO ECCLESIAM MEAM. TIBI DABO CLAVES REGNI CAELORVM*
 (... you are Peter, and on this rock I will build my church. ... I will give you the keys of the kingdom of heaven ... Vulgate, Matthew 16:18–19.)*
 
@@ -225,7 +225,7 @@ The main dome of the Basilica was designed by Michelangelo. The altar is a refer
 	<div class="6u 12u$(mobile) item">
 		<img data-src="{{'assets/images/blog/italy_trip/day2/pope_palace.jpg' | relative_url }}" class="blog-image">
 		<figcaption class="margin-bottom">Pope Palace</figcaption>
-        <p>The Pope stays in a palace on the right of the basilica (when facing the basilica), where he is protected by the <a href="https://www.wikiwand.com/en/Pontifical_Swiss_Guard">Pontifical Swiss Guard</a>. The Pope makes appearances on Wednesday and Sunday in the morning. We weren't particularly interested in seeing the Pope and so by chance we managed to pick a day that should have attracted lesser crowd in the evening since most people would have gone in the morning to see the Pope.</p>
+        <p>The Pope stays in a palace on the right of the basilica (when facing the basilica), where he is protected by the <a href="https://www.wikiwand.com/en/Pontifical_Swiss_Guard">Pontifical Swiss Guard</a>. The Pope makes appearances on Wednesday and Sunday in the morning. We weren't particularly interested in seeing the Pope and so by chance, we managed to pick a day that should have attracted a lesser crowd in the evening since most people would have gone in the morning to see the Pope.</p>
 	</div>
 </div>
 
@@ -283,7 +283,7 @@ The main dome of the Basilica was designed by Michelangelo. The altar is a refer
 
 After taking in the sites of the Vatican, our tour guide naturally dropped us off at the pervasive souvenir shop, where we naturally bought nothing and used the thankfully free bathrooms (Yes Kapil, it was quite a challenge finding them). We then headed back towards the River Tiber, getting a chance to see the [Caste Sant'Angelo](https://www.wikiwand.com/en/Castel_Sant%27Angelo).
 
-We walked down to the river side to see it was just as dirty from above as it was upclose. The greenish tinge was present in other rivers that we saw in Italy, though the sea itself was quite clear as seen on the Amalfi Coast. On the Vatican Side of the river, we got to also see the magnificent [Supreme Court of Italy]("https://www.wikiwand.com/en/Supreme_Court_of_Cassation_(Italy)"). 
+We walked down to the riverside to see it was just as dirty from above as it was close. The greenish tinge was present in other rivers that we saw in Italy, though the sea itself was quite clear as seen on the Amalfi Coast. On the Vatican Side of the river, we got to also see the magnificent [Supreme Court of Italy]("https://www.wikiwand.com/en/Supreme_Court_of_Cassation_(Italy)"). 
 
 
 <div class="row">
@@ -324,7 +324,7 @@ The [Circus Massimo](https://www.wikiwand.com/en/Circus_Maximus) ended up being 
 </div>
 
 
-We had our dinner at [Trettoria Cecio](https://www.google.com/maps/place/Trattoria+Cecio/@41.8983958,12.4990176,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a37e0230b7:0x95d46bed75a733b3!8m2!3d41.8983958!4d12.501206://www.google.com/maps/place/Trattoria+Cecio/@41.8983958,12.4990176,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a37e0230b7:0x95d46bed75a733b3!8m2!3d41.8983958!4d12.5012063) where we had some pasta again after a long wait to sit with people smoking next to us. It was some really good food, but I think after the amount we had walked that day anything would have been good. A note to all travellers to Italy, if you want to go to some of the better restaurants do not expect to be seated if you don't have a reservation. These reservations had to be atleast a day in advance for dinner. It happened so many times where I'd find a nice restaurant, call them only to find out that they wouldn't take us for that day. Since our timing tended to be variable, it wasn't possible for us to eat at some of the highest rated places during our trip. However, I do think we found some incredible places.
+We had our dinner at [Trettoria Cecio](https://www.google.com/maps/place/Trattoria+Cecio/@41.8983958,12.4990176,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a37e0230b7:0x95d46bed75a733b3!8m2!3d41.8983958!4d12.501206://www.google.com/maps/place/Trattoria+Cecio/@41.8983958,12.4990176,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a37e0230b7:0x95d46bed75a733b3!8m2!3d41.8983958!4d12.5012063) where we had some pasta again after a long wait to sit with people smoking next to us. It was some really good food, but I think after the amount we had walked that day anything would have been good. A note to all travelers to Italy, if you want to go to some of the better restaurants do not expect to be seated if you don't have a reservation. These reservations had to be at least a day in advance for dinner. It happened so many times where I'd find a nice restaurant, call them only to find out that they wouldn't take us for that day. Since our timing tended to be variable, it wasn't possible for us to eat at some of the highest rated places during our trip. However, I do think we found some incredible places.
 
 After dinner, my parents their dose of daily gelato and we all headed back to another day of questionable wifi at Hotel Centro.
 
