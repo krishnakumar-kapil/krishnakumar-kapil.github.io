@@ -6,9 +6,6 @@ hide: false
 
 **Summary**: Arrival in Florence, Uffizi Gallery
 
-<div class="tripblan">
-<iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=5&color=f25b53&markercolor=f25b53" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
-</div>
 
 ---
 

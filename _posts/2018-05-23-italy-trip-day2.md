@@ -8,10 +8,6 @@ hide: false
 
 ---
 
-<div class="tripblan">
-<iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=2&color=2196f3&markercolor=2196f3" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
-</div>
-
 We had started off the day at Hotel Centro. While my parents wake up really early (6:00 am) on holidays, this day was special where we all slept in till 9 am. After that just getting ready and having breakfast brought us to 11 am. The breakfast in Italy generally was a boatload of sweet items like croissants and baked goods with some untoasted bread. We were lucky that every hotel had cereal, fruits and thankfully yogurt :O.
 
 <div class="item right">

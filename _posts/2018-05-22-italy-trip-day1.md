@@ -27,10 +27,6 @@ On the flight to Rome, I managed to sleep a decent amount (which is quite unusua
 
 ## Day 1
 
-<div class="tripblan">
-<iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=1&color=0094ff&markercolor=0094ff" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
-</div>
-
 I arrived separately from my parents in Rome at 6:30 in the morning. While I had to take a short train ride to get to the main terminal to collect my bags and go through immigration, my parents didn't have any of these difficulties. When we have traveled in the past to a different country, we usually try to get at least one sim card of the local country such that we have local data and access to a local phone number. However, the airport didn't have these services until after exiting the main section which meant I had to wait while my parents arrived at 9:30 to get these sims. We managed to get 2 sim cards with 8 gb of data with Vodafone at €55, which seemed an okay price to pay. We luckily didn't have any data or connection related issues throughout our trip, though we did have offline google maps that ended up being a lifesaver.
 
 Another concern we had was transport from Rome Fiumicino airport to the Hotel in the center of Rome that was an hour away. While Uber existed, it was incredibly expensive costing around €85 for a basic car. With 3 large suitcases, this wasn't feasible. Public transport to the center was also turning out to be expensive with the train costing €14 per person while taxis costed €48 (though we didn't know they had a fixed rate before). A smart private shuttle operator managed to catch us in time while we were sorting out the sim card situation. 

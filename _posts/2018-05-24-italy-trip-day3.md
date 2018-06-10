@@ -9,11 +9,6 @@ hide: false
 ---
 
 
-<div class="tripblan">
-<iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=3&color=f25b53&markercolor=f25b53" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
-</div>
-
-
 We start off day 3 with the classic early morning start since we had to catch our train from [Roma Termini](https://www.google.com/maps/place/Roma+Termini/@41.9010032,12.499715,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61a439c0ffef:0xa4307dbef261a994!8m2!3d41.9010032!4d12.5019037) at 9:00 am. Though we were only 10 minutes away from the station, with 3 large suitcases and a bag whose wheels didn't work -.- we had to take a taxi to the station. As usual, we had to pay a surcharge for our bags. Italy also has a city tax rule where hotels can basically charge you up to 4 euros per person per night for staying. Annoyingly, this charge is always collected in person at the hotel, which means you still end up paying out of cash or card regardless of your prior bookings.
 
 

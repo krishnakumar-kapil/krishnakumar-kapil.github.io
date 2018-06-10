@@ -6,10 +6,6 @@ hide: false
 
 **Summary**: Pompeii, Amalfi Coast
 
-<div class="tripblan">
-<iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=4&color=f25b53&markercolor=f25b53" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>
-</div>
-
 ---
 
 With a tour of Pompeii and the Amalfi Coast starting at 8:00 am, the sleepy K family awoke at the unholy hour of 6:00 am to get ready to reach our pick up point at 7:45 am. The breakfast at Hotel Ibis Styles was excellent due to them simply having a toaster for once. After the breakfast, we stumbled sleepily to the pickup point at Hotel UNA in the square, blearily trying to figure out whether this is the actual pick up point. 8:00 am comes and goes and we haven't seen any tour pickups. Some buses come but they weren't with our pickup. Finally, this massive bus with city tour on it comes up and while we initially dismissed it, it turned out to be our ride. 
