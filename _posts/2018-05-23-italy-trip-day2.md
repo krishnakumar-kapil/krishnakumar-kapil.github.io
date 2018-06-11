@@ -80,7 +80,7 @@ As the navigator throughout the trip, I started guiding the family towards the B
 After the Borghese Gardens, we started heading west towards the Vatican. Along the way, we got lunch at a small cafe called [Mondo Arancina](https://www.google.com/maps/place/Mondo+Arancina/@41.9118113,12.4745687,17z/data=!4m16!1m8!3m7!1s0x132f61af5a97eb77:0xeb5107cdce01d746!2sHotel+Centro!5m1!1s2018-06-08!8m2!3d41.9009077!4d12.4949035!3m6!1s0x0:0x48b559442fe000c4!5m1!1s2018-06-08!8m2!3d41.912934!4d12.4755717) that was truly bustling. We managed to get a great deal for a pizza, a fried rice ball, and a dessert called [Cannoli](https://en.wikipedia.org/wiki/Cannoli).
 
 
-After lunch, we got a chance to visit the [Piazza del Popolo](https://www.wikiwand.com/en/Piazza_del_Popolo). With two churches on either side of the main obelisk in an extremely wide area, it was an incredible 360 view. After the piazza, we crossed the famous [River Tiber](https://www.wikiwand.com/en/Tiber) which is known to be the birthplace of Rome by the twin brothers Romulus and Remus. Our first time on the west side of the Tiber River, we managed to walk on a road just filled with expensive fashion shops. One of the names was extremely funny :P.
+After lunch, we got a chance to visit the [Piazza del Popolo](https://www.wikiwand.com/en/Piazza_del_Popolo). With two churches on either side of the main obelisk in an extremely wide area, it was an awe-inspiring 360 view. After the piazza, we crossed the famous [River Tiber](https://www.wikiwand.com/en/Tiber) which is known to be the birthplace of Rome by the twin brothers Romulus and Remus. Our first time on the west side of the Tiber River, we managed to walk on a road just filled with expensive fashion shops. One of the names was extremely funny :P.
 
 <div class="item left">
     <img data-src="{{'assets/images/blog/italy_trip/day2/pull_stop.jpg' | relative_url }}" class="blog-image">
@@ -124,7 +124,7 @@ Our tour guide initially brought us to a foyer with this pine-cone structure and
     <img data-src="{{'assets/images/blog/italy_trip/day2/tapestry.jpg' | relative_url }}" class="blog-image featured">
     <figcaption>Tapestries along the Museum</figcaption>
     <div class="figdesc">
-    The tapestries seen were all handwoven and done to incredible detail.
+    The tapestries seen were all handwoven and done to incredibly minute detail.
     </div>
 </div>
 
@@ -180,7 +180,7 @@ Unfortunately, it is prohibited to take pictures in the Chapel itself. The Chape
     <figcaption>Basilica Ceiling</figcaption>
 </div>
 
-The longest catholic church in the world. Though you can't tell when you visit, the Basilica is actually in the form of a crucifix. It is a really incredible site with an incredibly long lead-up to the main dome. The main corridor has an arched ceiling with these consistent rectangular patterns that managed to expose the height and size of the Basilica. Unlike other Basilicas that have circular pillars, St. Peter's Basilica has rectangular pillars with engravings of what seemed to be griffins at the top of them. In addition, these pillars are present in the foyer of the basilica. The main corridor of the basilica also has a list of the largest churches in the world on its floor. Naturally, St. Peter's Basilica is the largest.
+The longest catholic church in the world. Though you can't tell when you visit, the Basilica is actually in the form of a crucifix. It is a truly majestic church with an incredibly long lead-up to the main dome. The main corridor has an arched ceiling with these consistent rectangular patterns that managed to expose the height and size of the Basilica. Unlike other Basilicas that have circular pillars, St. Peter's Basilica has rectangular pillars with engravings of what seemed to be griffins at the top of them. In addition, these pillars are present in the foyer of the basilica. The main corridor of the basilica also has a list of the largest churches in the world on its floor. Naturally, St. Peter's Basilica is the largest.
 
 <div class="item left">
     <img data-src="{{ 'assets/images/blog/italy_trip/day2/pieta.jpg' | relative_url }}" class="blog-image">

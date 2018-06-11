@@ -95,7 +95,7 @@ Note for Kapil and folks interested in books, this was around when I started get
     </div>
 </div>
 
-**Museum**: We tried going inside the cathedral, but it was closed due to mass. My mom and I got dragged by my dad to go to the museum of the Cathedral, that turned out to be quite nice. With quite a modern setup, it had this one massive hall with some incredible sculptures and lighting.
+**Museum**: We tried going inside the cathedral, but it was closed due to mass. My mom and I got dragged by my dad to go to the museum of the Cathedral, that turned out to be quite nice. With quite a modern setup, it had this one massive hall with some amazing sculptures and lighting.
 
 <div class="row">
     <div class="3u 12u$(mobile) item">
@@ -170,7 +170,7 @@ We headed for lunch to [Scuie Scuie](https://www.google.com/maps/place/Sciue'Sci
 
 After lunch, we headed to [Basilica of Santa Croce in Florence](). The church, whose paneling was similar to the Santa Maria Church, is the burial place for many famous artists like Michelangelo. Classically, we didn't go in since more tickets (\$\$\$\$ for days).
 
-We then headed towards Piazza Michelangelo to see the incredible view of Florence. But since there was a climb, we just had to take a gelato break before jumping into the climb up the hill.
+We then headed towards Piazza Michelangelo to see the majestic view of Florence. But since there was a climb, we just had to take a gelato break before jumping into the climb up the hill.
 
 ---
 

@@ -147,7 +147,7 @@ We then headed over to [Cuculia Ristorante Liberia](https://www.google.com/maps/
     </div>
 </div>
 
-After the dinner, we headed back to the hotel walking along the river. After not observing the whole day, we observed that the clouds had this amazing look to them as if they had been drawn or painted on the sky. They had this incredible sharp 3D look that I haven't seen in other cities or countries. This one fact made my day in Florence. The sunset along the riverside was an incredible sight to witness as you can see from the images. We ended off the day going back to the hotel and then going on a laundry adventure to be bitten by mosquitos in the Florentine swelter. Our hotel didn't have any A/C in the room and so we had to survive with the windows open, which meant being bitten by the good old mosquitos. It's a miracle we managed to get any sleep.
+After the dinner, we headed back to the hotel walking along the river. After not observing the whole day, we observed that the clouds had this amazing look to them as if they had been drawn or painted on the sky. They had this incredible sharp 3D look that I haven't seen in other cities or countries. This one fact made my day in Florence. The sunset along the riverside was an amazing sight to witness as you can see from the images. We ended off the day going back to the hotel and then going on a laundry adventure to be bitten by mosquitos in the Florentine swelter. Our hotel didn't have any A/C in the room and so we had to survive with the windows open, which meant being bitten by the good old mosquitos. It's a miracle we managed to get any sleep.
 
 
 <div class="tripblan">

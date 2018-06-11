@@ -116,7 +116,7 @@ We wasted more time picking around people from all over the city before starting
     </div>
 </div>
 
-Our tour included lunch that was either pizza or spaghetti (our first in Italy!) with some incredible lemon gelato. We then spent a lot of time waiting for the groups to split into the respective tours for the respective day: a tour of Vesuvius, wine tasting in Vesuvius, Capri and finally Amalfi Coast (us!).
+Our tour included lunch that was either pizza or spaghetti (our first in Italy!) with some amazing lemon gelato. We then spent a lot of time waiting for the groups to split into the respective tours for the respective day: a tour of Vesuvius, wine tasting in Vesuvius, Capri and finally Amalfi Coast (us!).
 
 ---
 
@@ -141,7 +141,7 @@ Our tour included lunch that was either pizza or spaghetti (our first in Italy!)
     </div>
 </div>
 
-We finally got into a small van like bus and departed for our journey to the Amalfi Coast. Initially, the bus was fine but it's A/C seemed to go kaput. In a bus without openable windows, the bus quickly turned into a Roman sauna. With the driver driving like a possessed maniac on tight roads with a steep cliff on the right, the devout mother (not really :P) started her prayers haha. The only thing keeping us going was the incredible views of the Mediterranean Sea and the cities that seemed to be present right on the cliff of the sea.
+We finally got into a small van like bus and departed for our journey to the Amalfi Coast. Initially, the bus was fine but it's A/C seemed to go kaput. In a bus without openable windows, the bus quickly turned into a Roman sauna. With the driver driving like a possessed maniac on tight roads with a steep cliff on the right, the devout mother (not really :P) started her prayers haha. The only thing keeping us going was the astonishing views of the Mediterranean Sea and the cities that seemed to be present right on the cliff of the sea.
 
 <div class="row">
     <div class="4u 12u$(mobile) item">
@@ -231,7 +231,7 @@ cloud_city
 cloud_city2
 -->
 
-The ride back over the mountains was incredible as we went through the clouds seen earlier to see the city of Naples through the clouds. We managed to get back to Naples without issue, but the guide decided to use quite possibly the worst drop off algorithm for the passengers. Instead of dropping off the majority of the group at the center point of the city, he decided to go to the completely opposite end of town before coming back to drop us off. We ended up arriving at the hotel at 8 pm instead of 7 because of it.
+The ride back over the mountains was glorious as we went through the clouds seen earlier to see the city of Naples through the clouds. We managed to get back to Naples without issue, but the guide decided to use quite possibly the worst drop off algorithm for the passengers. Instead of dropping off the majority of the group at the center point of the city, he decided to go to the completely opposite end of town before coming back to drop us off. We ended up arriving at the hotel at 8 pm instead of 7 because of it.
 
 <div class="row">
     <div class="6u 12u$(mobile) item">
@@ -270,7 +270,7 @@ dinner3
 
 
 
-Completely exhausted from a terrible ride, we were desperate for some good food to end the day. I ended up finding a hidden gem with [Trattoria da Giovvanni](https://www.google.com/maps/place/Trattoria+da+Giovanni/@40.8504997,14.2666412,16z/data=!4m7!3m6!1s0x133b083e1ae8aca7:0xee28ae4217215deb!5m1!1s2018-07-08!8m2!3d40.8500896!4d14.2678432) in the side streets near our hotel. The owners are an old, Italian couple, who though unable to speak English took excellent care of us. Greeting us with a smile (it was such a rarity), they immediately brought out some incredible bruschetta and goat cheese for us to have as a starter. After explaining that we were vegetarian, we ordered spaghetti's with my dad as usual hilariously attempting to get pesto pasta even though she couldn't understand us. After such a poor bus ride, it was an incredible way to finish off the day.
+Completely exhausted from a terrible ride, we were desperate for some good food to end the day. I ended up finding a hidden gem with [Trattoria da Giovvanni](https://www.google.com/maps/place/Trattoria+da+Giovanni/@40.8504997,14.2666412,16z/data=!4m7!3m6!1s0x133b083e1ae8aca7:0xee28ae4217215deb!5m1!1s2018-07-08!8m2!3d40.8500896!4d14.2678432) in the side streets near our hotel. The owners are an old, Italian couple, who though unable to speak English took excellent care of us. Greeting us with a smile (it was such a rarity), they immediately brought out some incredible bruschetta and goat cheese for us to have as a starter. After explaining that we were vegetarian, we ordered spaghetti's with my dad as usual hilariously attempting to get pesto pasta even though she couldn't understand us. After such a poor bus ride, it was a brilliant way to finish off the day.
 
 <div class="tripblan">
 <iframe width="800px" height="500px" src="https://tripblan.com/map/italy-trip?maplines=true&day=4&color=f25b53&markercolor=f25b53" style="border: #dddddf 1px solid;  border-radius: 3px;"></iframe>

@@ -68,7 +68,7 @@ Napoli is a city of crowded, cramped, streets where you are the prey of the pred
 After our inability to go to one of the top restaurants in Rome, we decided to try our luck in Naples. We walked down one of the busiest, yet extremely narrow, streets of Naples called Via dei Tribunali to arrive at <a href="https://www.google.com/maps/place/Antonio+e+Gigi+Sorbillo/@40.8504258,14.2546865,18z/data=!4m5!3m4!1s0x133b084247fd37e5:0x978510f3df1a87dc!8m2!3d40.8504948!4d14.2555931">Antonio e Gigi Sorbillo</a> restaurant. With an extremely large menu of options available to us, we went with 3 pizzas: the Napolitan Margherita, A pizza with capers and olives, and a pesto-based pizza. We waited and waited and waited while mosquitos bit us at the legs. While we weren't particularly hungry when we arrived at the restaurant (so unusual for us), we were ravenous by the time the food came. But, every second was worth it as the pizzas were incredible. What makes the Italian Pizza incomparable to any other, is their use of high-quality tomatoes, excess amounts of olive oil, and a thin fluffy base. I described the pizza as 'juicy' just due to the explosion of flavor in my mouth. In other places, we don't tend to add olive oil on top of the pizzas, but here we managed to get pizzas where the base maintained it's shape and texture with the almost liquid-like surface of the pizza.
 
 
-After the incredible lunch, we headed to [Piazza Bellini](https://www.wikiwand.com/en/Piazza_Bellini,_Naples). A small piazza with some Colosseum like excavations underneath, it wasn't anything great. 
+After the amazing lunch, we headed to [Piazza Bellini](https://www.wikiwand.com/en/Piazza_Bellini,_Naples). A small piazza with some Colosseum like excavations underneath, it wasn't anything great. 
 
 ---
 
@@ -92,13 +92,13 @@ After the incredible lunch, we headed to [Piazza Bellini](https://www.wikiwand.c
     </div>
 </div>
 
-We then went to the [Church of Gesu Nuovo](https://en.wikipedia.org/wiki/Gesù_Nuovo). The church has a really interesting outer facade that was unique amongst the other churches that we visited. The inside however, was more of the incredible golden arches and paintings. There also was a cloister of San Chiara nearby, but since that was paid, as usual, we skipped it.
+We then went to the [Church of Gesu Nuovo](https://en.wikipedia.org/wiki/Gesù_Nuovo). The church has a really interesting outer facade that was unique amongst the other churches that we visited. The inside contained  more majestic golden arches and paintings. There also was a cloister of San Chiara nearby, but since that was paid, as usual, we skipped it.
 
 ---
 
 ### Toledo, the Bathroom, and the Water
 
-We wanted to go to [Toledo](https://www.google.com/maps/place/Toledo/@40.8418274,14.2478095,18z/data=!4m5!3m4!1s0x133b0850093f2839:0xf474b6b075a94d9a!8m2!3d40.8426779!4d14.2489239) station that from looking online seemed to have some incredible modern art pieces on the station walls. But, the bathroom problem arose again and we frantically tried to find one in the variety of shops along the way. Along the whole shopping district on Via Toledo there wasn't a single shop that seemed to have a public toilet. We finally went to the innovative bathroom in Toledo station. To get inside, you had to pay in coins (we only had a min of 50 cents instead of the normal 10 cents) and after entering the door would open automatically after 5 minutes!
+We wanted to go to [Toledo](https://www.google.com/maps/place/Toledo/@40.8418274,14.2478095,18z/data=!4m5!3m4!1s0x133b0850093f2839:0xf474b6b075a94d9a!8m2!3d40.8426779!4d14.2489239) station that from looking online seemed to have award-winning modern art pieces on the station walls. But, the bathroom problem arose again and we frantically tried to find one in the variety of shops along the way. Along the whole shopping district on Via Toledo there wasn't a single shop that seemed to have a public toilet. We finally went to the innovative bathroom in Toledo station. To get inside, you had to pay in coins (we only had a min of 50 cents instead of the normal 10 cents) and after entering the door would open automatically after 5 minutes!
 
 After contemplating but not getting gelato session, we realized we had another water shortage issue and went on the hunt for a grocery store. We hilariously ended up at an American mart that unexpectedly ended up giving us some decent rates for a water bottle.
 
@@ -207,7 +207,7 @@ A castle jutting out into the Mediterranean Sea, the height provided by the cast
     </div>
 </div>
 
-After dell'Ovo, we walked down to our last planned site of the day that was Castel Nuovo. But after realizing that yet another place required tickets, we just admired the view from the outside. This castle was the main seat of the royal kings of Naples, Aragon, and Spain until 1815. We found the best part the engravings on the doors that had incredibly detailed drawings of battles sculpted.
+After dell'Ovo, we walked down to our last planned site of the day that was Castel Nuovo. But after realizing that yet another place required tickets, we just admired the view from the outside. This castle was the main seat of the royal kings of Naples, Aragon, and Spain until 1815. We found the best part the engravings on the doors that had extremely detailed drawings of battles sculpted.
 
 ---
 
