@@ -28,6 +28,8 @@ We had seen yesterday that the castle had free entry on Tuesdays after 2 pm. Bei
 
 Post the museum, we were craving for some gelato and headed to [Vanila Milano](https://www.google.com/maps/place/Galleria+Vittorio+Emanuele+II/@45.4862671,9.2016725,16z/data=!4m12!1m6!3m5!1s0x4786c3f8853adc1d:0x192dc3c5f4975b72!2sPorta+Nuova!8m2!3d45.4798874!4d9.1925959!3m4!1s0x0:0x270b9ca95809d416!8m2!3d45.4658431!4d9.1899401) for the best gelato on our whole trip!! All their flavors were natural and organic, which meant that their mango gelato was from actual mangos and was one of the best ice creams I've ever had. I had that in combination with their chocolate hazelnut flavored *bacchio*. We would highly recommend this place to anyone!
 
+Post gelato-bliss, we wanted to roam the city in the hop on hop off tour bus that would end at 6 pm. While I slept and then read (shout out to Arcane Ascension series), my parents enjoyed the rest of the city architecture. We eventually called it a day by going back to the hotel with some groceries and making a small meal there.
+
 ---
 
-Post gelato-bliss, we wanted to roam the city in the hop on hop off tour bus that would end at 6 pm. While I slept and then read (shout out to Arcane Ascension series), my parents enjoyed the rest of the city architecture. We eventually called it a day by going back to the hotel with some groceries and making a small meal there.
+Tripblan
