@@ -1,7 +1,8 @@
 ---
 title: Italy Trip Day 1
 layout: post
-hide: false
+hide: true
+permalink: italytrip/
 ---
 
 **Summary**: Arrival in Rome, Colosseum, Pantheon, Piazza Navona, Trevi Fountain 

@@ -1,7 +1,7 @@
 ---
 title: Italy Trip Day 4
 layout: post
-hide: false
+hide: true
 ---
 
 **Summary**: Pompeii, Amalfi Coast

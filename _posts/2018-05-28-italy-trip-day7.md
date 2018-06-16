@@ -1,7 +1,7 @@
 ---
 title: Italy Trip Day 7
 layout: post
-hide: false
+hide: true
 ---
 
 **Summary**: Milan, Porto Nuovo, Sempione Park, Piazza Scala

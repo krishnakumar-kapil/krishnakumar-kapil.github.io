@@ -1,7 +1,7 @@
 ---
 title: Italy Trip Day 6
 layout: post
-hide: false
+hide: true
 ---
 
 **Summary**: Florence, Duomo, Santa Croce, Piazza Michelangelo, Pitti Palace, Boboli Gardens, Mercato di San Lorenzo 

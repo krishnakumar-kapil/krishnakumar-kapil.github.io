@@ -1,7 +1,7 @@
 ---
 title: Italy Trip Day 9 and 10
 layout: post
-hide: false
+hide: true
 ---
 
 **Summary**: Back To Rome, Fiumicino, Ostia Beach, Back to India :(

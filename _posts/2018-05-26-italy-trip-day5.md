@@ -1,7 +1,7 @@
 ---
 title: Italy Trip Day 5
 layout: post
-hide: false
+hide: true
 ---
 
 **Summary**: Arrival in Florence, Uffizi Gallery

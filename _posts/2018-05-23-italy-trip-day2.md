@@ -1,7 +1,7 @@
 ---
 title: Italy Trip Day 2
 layout: post
-hide: false
+hide: true
 ---
 
 **Summary**: Rome: Spanish Steps, Borghese Garden, Vatican City, St. Peter's Basilica, River Tiber, Circus Massimo

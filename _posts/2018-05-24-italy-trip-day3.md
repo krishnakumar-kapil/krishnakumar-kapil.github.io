@@ -1,7 +1,7 @@
 ---
 title: Italy Trip Day 3
 layout: post
-hide: false
+hide: true
 ---
 
 **Summary**: Arrival in Naples, Garibaldi Station, Duomo di Napoli, Church of Gesu Nuovo, Toledo Station, Galleria Umberto, Piazza del Plebiscito, Castel dell'Ovo, Castel Nuovo

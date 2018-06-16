@@ -1,7 +1,7 @@
 ---
 title: Italy Trip Day 8
 layout: post
-hide: false
+hide: true
 ---
 
 **Summary**: Milan, Duomo di Milan, Sforzesco Castle, Hop On Hop Off Tour, Piz
