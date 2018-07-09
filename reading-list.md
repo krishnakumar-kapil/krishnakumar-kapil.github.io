@@ -16,4 +16,13 @@ I love books! You can go follow me on [Goodreads](https://www.goodreads.com/user
 6. Riyria: Michael Sullivan
 7. Harry Potter: J.K. Rowling
 
+# Recent Books I've read over the Summer
 
+- Andrew Rowe
+    - Arcane Ascension
+    - The War of Broken Mirrors
+- Raven's Shadow Series by Anthony Ryan
+- Will Wight
+    - Cradle Series
+    - Traveller's Gate
+- Powder Mage Trilogy by 
