@@ -1,5 +1,5 @@
 ---
-title: Reading Journey 
+title: Reading Journey Part 1
 layout: post
 hide: false
 permalink: reading
@@ -36,14 +36,15 @@ Similarly, I also got into Artemis Fowl through Avinash's summer reading lists. 
 
 Alex Rider is in a similar vein to Artemis' story, since we have an orphaned boyhood spy who is forced to join the MI6, as no one would expect a middle school spy. The whole series basically is a far more enjoyable young James Bond, where the villains continuously underestimate Alex. There are a lot of good character building story arcs and interwoven plot lines that stretch beyond books like the whole Scorpia organization. Anthony Horowitz is able to masterfully write a teenage boy who has been trained to be a killer spy, but doesn't want to be one and deals with the morality associated with that throughout the whole series. Horowitz also wrote the Power of Five series that I read the first 3-4 books of but didn't enjoy the final book as much. 
 
-bionicles
-tmnt? beyblade?
-
 ---
 
 Once back in India, my selection of novels turned to far more different stories as I no longer had access to the great libraries of the schools. Our library at school couldn't even try to look like a library, with a pitiful number of books. We tried to find a few libraries, but it would be a few years until I had access one that I was actually happy about. In the meantime, I would beg my parents for books and so on. I think this is the period when I just started rereading any and every series that I had left in our collection. The number of times that I've read Warriors, Ga'hoole, Harry Potter, and more were probably the only things keeping my curiosity in check during those first two years back in India. 
 
 Back to more books! I believe I discovered Agatha Christie and Hercule Poirot based on Amma bringing back a book from one of her friends that I devoured over a weekend. I still haven't had a chance to see the Orient Express, but the sheer thriller ride that book was stands out in my memory. I think it's fairly uncontested that Christie was an absolute master in the art of presenting clues and red herrings and creating a mystery that is only visible to Poirot and yet hidden from the reader, but with just enough to keep turning the page. 
+
+Sherlock Holmes was the natural transition for me to make from Poirot. His social awkwardness characterized from Watson's writing style and fog of war made the stories great to read since they were full of suspense and good villains. Moriarty particularly was a highly enjoyable character who was a great anti-thesis to Sherlock, as he was what the dark side of Sherlock would've been without the morality of Watson. The show being a great watch certainly helped solidify my interest in the character and stories after I read the series
+
+
 
 At some point, I think I read Eragon in the library but never owned the book. If there's one thing in fantasy that I truly enjoy, it's dragons. Give me heaps and loads of them and I'll eat up every book. Anyway, on one long train ride back to Chennai, I managed to get a beaten up fake copy of Eldest, the second book of the series, and it was amazing. The whole heartbreaking story of Oromis and Glaedr, Eragon finding out about his father, it was in my eyes a great story at the time. I remember when Inheritance came out in 10th grade, I knew I wanted to read it ASAP, and got Tejas, who had somehow got his pre-order earlier than me, to loan me the book over the weekend and give it back to him. I think I finished that book in one day with 220,000 words. I really thought till Eldest the series was an amazing series, but later, after exposing myself to some of the true greats like Lord of the Rings and even a bit of Star Wars, did my expectations of that story align more realistically. Don't get me wrong, the concept of dragon riders who have a telepathic connection to their dragon partners and are able to use magic with just language is a very very appealing sell, but a book is about the plot and the greatness of the reread. Sadly, the Inheritance cycle pales a bit when it comes to those two facts. It didn't help it that the ending of the last book basically spans half a book lol.
 
@@ -76,39 +77,5 @@ I haven't even gotten into his best work in my opinion. The Silmarillion is the 
 Continuing on the lines of soft magic, another series that I discovered in Landmark was the Magician's Apprentice series by Trudi Canavan. Her style of combining the protagonist with an anti-hero with a compelling ideology made the story quite a compelling read. Admittedly, the main characters are initially pretty overpowered, but it gets balanced out by an opposing nation with the same power. There is a definite power creep that occurs in these books, but that's pretty much every mafia game that happens. 
 
 Garth Nix's Sabriel series was an introduction for me to the world of horror fantasy. It's been a really long time since I read the series, but there were some artifacts that basically interacted with the dead and honestly, the whole world seemed like what Game of Thrones should've had north of the wall. Overall a solid series with a good brother-sister relationship with the protagonist in a world that overall seemed a bit sparse. This series had a good female protagonist. 
-
----
-india
-sherlock holmes
-trudi canavan
-
----
-college
-game of thrones
-wheel of time
-name of the wind
-red rising
-dresden files
-malazan book of the fallen
-
-dune
-dragonlance chronicles
-inda
-(guy gavriel kay)
-* tigana
-* fionvar tapestry
-
---- work
-sufficiently advanced magic
-will wight
-powder mage
-
-kate daniels
-riftwar
-Django Wexler (infernal batallion)
-Rage of dragons
-Kings of the wyld
-Demon Cycle
-Six of Crows
 
 
