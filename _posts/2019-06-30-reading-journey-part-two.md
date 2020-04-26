@@ -1,5 +1,5 @@
 ---
-title: Reading Journey Part 1
+title: Reading Journey Part 2
 layout: post
 hide: false
 permalink: reading2
